@@ -1,0 +1,8291 @@
+
+File: 1
+IP: 71.129.195.163
+IP: 216.15.189.38
+Domain: chtah.co
+Domain: circuitcity.ch
+Domain: circuitcity.com
+Domain: chtah.com
+
+File: 10
+IP: 71.129.195.163
+IP: 66.192.236.135
+IP: 192.168.0.131
+IP: 192.168.0.135
+Domain: webdecisions.com
+Domain: smarterkids.com
+
+File: 100
+IP: 71.129.195.163
+IP: 207.171.188.104
+IP: 10.16.42.230
+Domain: amazon.com
+
+File: 1000
+IP: 71.129.195.163
+IP: 66.70.85.50
+Domain: physlink.com
+
+File: 101
+IP: 71.129.195.163
+IP: 10.16.42.105
+IP: 10.16.42.228
+IP: 207.171.188.111
+Domain: amazon.com
+
+File: 102
+IP: 71.129.195.163
+IP: 207.171.188.102
+IP: 10.16.42.228
+Domain: amazon.com
+
+File: 103
+IP: 207.171.180.101
+IP: 71.129.195.163
+IP: 10.16.42.228
+IP: 10.16.42.108
+Domain: amazon.com
+
+File: 104
+IP: 71.129.195.163
+IP: 10.16.42.230
+IP: 207.171.188.106
+Domain: amazon.com
+
+File: 105
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 106
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: ccbn.com
+
+File: 107
+IP: 207.171.188.109
+IP: 71.129.195.163
+IP: 10.16.42.228
+Domain: thefutureoflife.com
+Domain: amazon.com
+
+File: 108
+IP: 71.129.195.163
+IP: 10.6.8.151
+IP: 001.16.0.0
+IP: 63.92.90.150
+Domain: myfamily.com
+Domain: ancestry.com
+Domain: custhelp.com
+Domain: psstt.com
+Domain: softexpressions.com
+
+File: 109
+IP: 71.129.195.163
+IP: 10.16.42.233
+IP: 207.171.188.106
+Domain: amazon.com
+
+File: 11
+IP: 71.129.195.163
+IP: 192.168.24.57
+Domain: thestreet.com
+
+File: 110
+IP: 71.129.195.163
+IP: 10.16.42.229
+IP: 207.171.188.106
+Domain: prosperotechnologies.com
+Domain: amazon.com
+
+File: 111
+IP: 71.129.195.163
+IP: 10.6.8.151
+IP: 63.92.90.192
+Domain: ancestry.com
+
+File: 112
+IP: 71.129.195.163
+IP: 63.163.81.100
+IP: 63.163.81.10
+Domain: aomega.com
+Domain: topica.com
+
+File: 113
+IP: 71.129.195.163
+IP: 17.254.6.6
+Domain: apple.com
+Domain: peachpit.com
+Domain: akamai.net
+
+File: 114
+IP: 207.171.188.101
+IP: 71.129.195.163
+Domain: amazon.co.uk
+
+File: 115
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: ccbn.com
+
+File: 116
+IP: 71.129.195.163
+IP: 209.96.210.81
+Domain: arcamax.com
+
+File: 117
+IP: 71.129.195.163
+IP: 205.147.231.30
+Domain: rodale.com
+Domain: prevention.com
+Domain: akamai.net
+
+File: 118
+IP: 10.21.9.70
+IP: 71.129.195.163
+IP: 216.73.90.145
+Domain: myabout.com
+Domain: about.com
+
+File: 119
+IP: 71.129.195.163
+IP: 209.96.210.87
+Domain: arcamax.com
+
+File: 12
+IP: 71.129.195.163
+IP: 203.2.218.40
+Domain: mira.net
+Domain: abc.net.au
+
+File: 120
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+Domain: cbs.com
+Domain: promotions.com
+Domain: substance.com
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: questionmarket.com
+Domain: akamai.net
+Domain: women.com
+
+File: 121
+IP: 71.129.195.163
+IP: 209.15.2.13
+Domain: nasa.gov
+Domain: af.mil
+Domain: universetoday.com
+Domain: rpi.edu
+Domain: harvard.edu
+
+File: 122
+IP: 71.129.195.163
+IP: 216.15.189.37
+Domain: chtah.com
+Domain: spiegel.com
+
+File: 123
+IP: 71.129.195.163
+IP: 207.25.80.38
+Domain: cnnsi.com
+Domain: cnn.net
+Domain: CNNSI.com
+Domain: akamai.net
+Domain: atwola.com
+Domain: qksrv.net
+Domain: cnn.com
+
+File: 124
+IP: 63.81.40.14
+IP: 71.129.195.163
+IP: 5.0.2.1
+Domain: uncommongoods.com
+
+File: 125
+IP: 71.129.195.163
+IP: 209.67.12.57
+Domain: thestreet.com
+Domain: gobfw.com
+
+File: 126
+IP: 71.129.195.163
+IP: 209.96.210.83
+Domain: arcamax.com
+
+File: 127
+IP: 71.129.195.163
+IP: 63.241.35.18
+Domain: mp3.com
+Domain: rollingstone.com
+Domain: mp4.com
+Domain: myreg.net
+Domain: emusic.com
+Domain: content.ro
+
+File: 128
+IP: 71.129.195.163
+IP: 209.96.210.78
+Domain: go.com
+Domain: goldfishinfo.com
+Domain: arcamax.com
+
+File: 129
+IP: 209.96.210.79
+IP: 71.129.195.163
+Domain: arcamax.com
+
+File: 13
+IP: 71.129.195.163
+IP: 216.73.90.98
+IP: 10.21.8.10
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 130
+IP: 71.129.195.163
+IP: 216.154.238.205
+IP: 127.0.0.1
+Domain: americawestvacations.com
+Domain: ticketmaster.com
+Domain: hoteldiscounts.com
+Domain: thrifty.com
+Domain: thomsonfn.com
+Domain: americawest.com
+
+File: 131
+IP: 71.129.195.163
+IP: 66.218.70.249
+Domain: yahoo.com
+Domain: pbs.org
+Domain: otisfodder.com
+Domain: swing.be
+Domain: aphotoaday.org
+Domain: si.edu
+Domain: themakeupgallery.info
+Domain: lifeinterrupted.org
+
+File: 132
+IP: 71.129.195.163
+IP: 216.91.57.180
+Domain: newsmaxstore.com
+Domain: zipmax.com
+Domain: NewsMax.com
+Domain: newsmax.com
+
+File: 133
+IP: 71.129.195.163
+IP: 207.32.85.250
+Domain: eschoolnews.com
+
+File: 134
+IP: 71.129.195.163
+IP: 64.28.88.147
+Domain: mothergrove.com
+Domain: usatoday.com
+Domain: bizland.com
+Domain: dynamicdesign.biz
+Domain: BizLand.com
+Domain: inkspotts.com
+Domain: ethnocentrics.com
+Domain: backyardceramics.com
+
+File: 135
+IP: 71.129.195.163
+IP: 216.64.223.119
+Domain: cme.cr
+Domain: ConsumerReports.org
+Domain: consumerreports.org
+
+File: 136
+IP: 10.204.1.121
+IP: 71.129.195.163
+IP: 209.11.164.121
+IP: 209.11.138.94
+Domain: akamaitech.net
+Domain: m0.net
+
+File: 137
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: myfree.com
+Domain: MyFree.com
+
+File: 138
+IP: 71.129.195.163
+IP: 10.189.224.141
+IP: 207.25.80.52
+Domain: cnn.com
+Domain: CNN.com
+
+File: 139
+IP: 71.129.195.163
+IP: 64.132.70.201
+Domain: b2bfreeresources.com
+Domain: michaels.com
+Domain: gardenridge.com
+Domain: hobbylobby.com
+Domain: mybargaintown.com
+Domain: uchida.com
+Domain: walmart.com
+Domain: acmoore.com
+Domain: myfree.com
+Domain: joann.com
+
+File: 14
+IP: 71.129.195.163
+IP: 216.73.90.121
+IP: 10.21.8.200
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 140
+IP: 71.129.195.163
+IP: 64.132.70.201
+Domain: mybargaintown.com
+Domain: b2bfreeresources.com
+Domain: myfree.com
+Domain: bluedolphin.com
+
+File: 141
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: myfree.com
+Domain: MyFree.com
+
+File: 142
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: MyFree.com
+Domain: myfree.com
+
+File: 143
+IP: 71.129.195.163
+IP: 64.236.25.79
+Domain: fortune.com
+Domain: onmagazine.com
+Domain: cnn.net
+Domain: cnnfn.com
+Domain: aol.com
+Domain: time.com
+Domain: cnn.com
+Domain: atwola.com
+Domain: ecompanynow.com
+
+File: 144
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: myfree.com
+Domain: MyFree.com
+
+File: 145
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: MyFree.com
+Domain: myfree.com
+Domain: amperemedia.com
+
+File: 146
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: intel.com
+Domain: ccbn.com
+
+File: 147
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: MyFree.com
+Domain: myfree.com
+Domain: amperemedia.com
+
+File: 148
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: MyFree.com
+Domain: myfree.com
+Domain: amperemedia.com
+
+File: 149
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: MyFree.com
+Domain: myfree.com
+
+File: 15
+IP: 150.135.62.219
+IP: 128.196.120.93
+IP: 128.196.120.91
+IP: 71.129.195.163
+IP: 10.1.0.200
+IP: 128.196.133.165
+Domain: arizona.edu
+Domain: arizonaathletics.com
+Domain: uanews.org
+Domain: nau.edu
+
+File: 150
+IP: 10.21.9.70
+IP: 71.129.195.163
+IP: 216.73.90.142
+Domain: myabout.com
+Domain: about.com
+
+File: 151
+IP: 71.129.195.163
+IP: 64.236.25.78
+Domain: CNNmoney.com
+Domain: cnn.com
+Domain: CNNSI.com
+
+File: 152
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: MyFree.com
+Domain: myfree.com
+Domain: amperemedia.com
+
+File: 153
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: intc.com
+Domain: ccbn.com
+
+File: 154
+IP: 71.129.195.163
+IP: 64.132.70.215
+IP: 198.63.247.2
+IP: 64.132.70.201
+Domain: MyFree.com
+Domain: myfree.com
+
+File: 155
+IP: 192.168.100.1
+IP: 71.129.195.163
+IP: 206.112.95.3
+Domain: mailermailer.com
+Domain: m1e.net
+
+File: 156
+IP: 71.129.195.163
+IP: 64.208.135.28
+IP: 630.5.0.0
+Domain: tm0.com
+
+File: 157
+IP: 71.129.195.163
+IP: 64.208.135.20
+IP: 630.5.0.0
+Domain: tm0.com
+
+File: 158
+IP: 71.129.195.163
+IP: 207.25.80.38
+Domain: money.com
+Domain: cnn.com
+
+File: 159
+IP: 71.129.195.163
+IP: 208.216.217.142
+Domain: clks.com
+Domain: businessweek.com
+
+File: 16
+IP: 71.129.195.163
+IP: 149.68.45.24
+Domain: rit.edu
+Domain: easi.cc
+
+File: 160
+IP: 71.129.195.163
+IP: 207.25.80.38
+Domain: atwola.com
+Domain: CNN.com
+Domain: aol.com
+Domain: cnn.com
+
+File: 161
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.162
+Domain: yamhill.com
+Domain: hoovers.com
+
+File: 162
+IP: 71.129.195.163
+IP: 10.21.9.10
+IP: 216.73.90.132
+Domain: update.com
+Domain: hoovers.com
+
+File: 163
+IP: 204.127.198.45
+IP: 209.68.1.23
+IP: 216.148.227.88
+IP: 216.92.1.92
+IP: 71.129.195.163
+IP: 12.254.189.173
+IP: 127.0.0.1
+Domain: pairlist.net
+
+File: 164
+IP: 204.168.70.194
+IP: 71.129.195.163
+Domain: farmjokes.com
+Domain: valueclick.com
+Domain: humornetwork.com
+Domain: optamail.com
+
+File: 165
+IP: 71.129.195.163
+IP: 65.205.165.4
+IP: 10.1.1.48
+Domain: crutchfield.com
+
+File: 166
+IP: 204.71.191.179
+IP: 71.129.195.163
+Domain: 2020insight.com
+Domain: bcentral.com
+
+File: 167
+IP: 71.129.195.163
+IP: 65.205.165.4
+IP: 10.1.1.48
+Domain: crutchfield.com
+
+File: 168
+IP: 212.67.96.149
+IP: 71.129.195.163
+IP: 66.218.66.218
+IP: 66.218.67.196
+IP: 213.78.106.41
+IP: 66.218.66.78
+Domain: yahoo.com
+Domain: thedietcoach.com
+Domain: yimg.com
+Domain: ameritrade.com
+Domain: doubleclick.net
+
+File: 169
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 68.54.0.180
+Domain: vegofwa.org
+Domain: earthsave.org
+Domain: politicalcircus.com
+Domain: vegweb.com
+Domain: organicweddings.com
+Domain: rediff.com
+Domain: leapingbunny.org
+Domain: sort.org
+Domain: ivu.org
+Domain: eatraw.com
+Domain: vegfamily.com
+Domain: vegfair.org
+
+File: 17
+IP: 71.129.195.163
+IP: 10.21.9.10
+IP: 216.73.90.137
+Domain: myabout.com
+Domain: about.com
+
+File: 170
+IP: 71.129.195.163
+IP: 207.106.239.82
+Domain: thefreeguide.com
+Domain: money4surveys.com
+Domain: nike.com
+Domain: aweber.com
+Domain: affiliatefuel.com
+Domain: freebizmag.com
+Domain: tampax.com
+Domain: masteringanxiety.com
+Domain: equal.com
+Domain: websponsors.com
+
+File: 171
+IP: 66.180.244.28
+IP: 71.129.195.163
+IP: 216.136.224.222
+IP: 198.81.26.138
+Domain: yahoo.com
+Domain: topica.com
+Domain: yimg.com
+
+File: 172
+IP: 71.129.195.163
+IP: 66.203.65.80
+Domain: fastcompany.com
+
+File: 173
+IP: 71.129.195.163
+IP: 64.12.49.184
+Domain: timeinc.net
+Domain: business2.co
+Domain: salesforce.com
+Domain: business2.com
+Domain: akamai.net
+Domain: atwola.com
+
+File: 174
+IP: 71.129.195.163
+IP: 207.25.80.40
+Domain: atwola.com
+Domain: CNN.com
+Domain: aol.com
+Domain: cnn.com
+
+File: 175
+IP: 71.129.195.163
+IP: 66.35.204.218
+Domain: gartner.com
+Domain: business2.com
+Domain: uptilt.com
+Domain: gartnerinfo.com
+
+File: 176
+IP: 71.129.195.163
+IP: 64.12.49.184
+Domain: timeinc.net
+Domain: business2.co
+Domain: salesforce.com
+Domain: business2.com
+Domain: akamai.net
+Domain: atwola.com
+Domain: cnn.com
+
+File: 177
+IP: 198.160.148.62
+IP: 71.129.195.163
+IP: 170.137.2.13
+IP: 127.0.0.1
+Domain: money.net
+
+File: 178
+IP: 71.129.195.163
+IP: 64.12.49.184
+Domain: salesforce.com
+Domain: business2.com
+Domain: atwola.com
+
+File: 179
+IP: 71.129.195.163
+IP: 206.154.201.71
+IP: 66.180.244.25
+IP: 66.179.49.230
+Domain: teleclass.com
+Domain: coachville.com
+Domain: flickville.com
+Domain: newbieclub.com
+Domain: topica.com
+
+File: 18
+IP: 71.129.195.163
+IP: 216.73.90.96
+IP: 10.21.8.10
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 180
+IP: 71.129.195.163
+IP: 192.168.1.102
+IP: 66.180.244.23
+IP: 66.216.95.23
+Domain: topica.com
+Domain: daytips.com
+
+File: 181
+IP: 71.129.195.163
+IP: 192.168.1.18
+Domain: adreporting.com
+Domain: myseasilver.com
+Domain: MeMail.com
+
+File: 182
+IP: 71.129.195.163
+IP: 64.39.29.237
+Domain: sodamail.com
+
+File: 183
+IP: 71.129.195.163
+IP: 66.180.244.25
+Domain: freeservers.com
+Domain: topica.com
+
+File: 184
+IP: 71.129.195.163
+IP: 12.18.6.135
+Domain: nola.com
+Domain: charlotte.com
+Domain: nypost.com
+Domain: nba.com
+Domain: boston.com
+Domain: washingtonpost.com
+Domain: azcentral.com
+Domain: go.com
+Domain: ocregister.com
+
+File: 185
+IP: 71.129.195.163
+IP: 64.30.226.36
+Domain: atdmt.com
+Domain: ubid.com
+Domain: sportsline.com
+
+File: 186
+IP: 71.129.195.163
+IP: 64.30.226.38
+Domain: sportsline.com
+
+File: 187
+IP: 71.129.195.163
+IP: 65.220.224.15
+IP: 65.220.224.14
+Domain: pcworld.com
+Domain: dell.com
+Domain: pricegrabber.com
+Domain: snurl.com
+Domain: hp.com
+
+File: 188
+IP: 71.129.195.163
+IP: 10.21.9.10
+IP: 216.73.90.136
+Domain: myabout.com
+Domain: about.com
+
+File: 189
+IP: 71.129.195.163
+IP: 65.220.224.15
+IP: 65.220.224.14
+Domain: samsung.com
+Domain: pcworld.com
+Domain: dell.com
+
+File: 19
+IP: 71.129.195.163
+IP: 149.173.6.53
+IP: 10.25.10.58
+Domain: sas.com
+
+File: 190
+IP: 71.129.195.163
+IP: 65.220.224.15
+IP: 65.220.224.14
+Domain: pcworld.com
+Domain: dell.com
+Domain: pricegrabber.com
+
+File: 191
+IP: 71.129.195.163
+IP: 65.220.224.15
+IP: 65.220.224.14
+Domain: pcworld.com
+Domain: dell.com
+Domain: kingston.com
+
+File: 192
+IP: 71.129.195.163
+IP: 65.220.224.15
+IP: 65.220.224.14
+Domain: pcworld.com
+Domain: netgear.com
+
+File: 193
+IP: 71.129.195.163
+IP: 65.220.224.15
+IP: 65.220.224.14
+Domain: samsung.com
+Domain: pcworld.com
+Domain: dell.com
+
+File: 194
+IP: 71.129.195.163
+IP: 65.220.224.15
+IP: 65.220.224.14
+Domain: pcworld.com
+Domain: dell.com
+Domain: pricegrabber.com
+
+File: 195
+IP: 71.129.195.163
+IP: 63.150.182.135
+Domain: intellimedia.com
+Domain: annuiweb.com
+Domain: aarp.org
+Domain: qksrv.net
+Domain: avis.com
+
+File: 196
+IP: 71.129.195.163
+IP: 63.150.182.134
+Domain: intellimedia.com
+Domain: aarp.org
+
+File: 197
+IP: 71.129.195.163
+IP: 63.150.182.135
+Domain: intellimedia.com
+Domain: aarp.org
+
+File: 198
+IP: 66.179.100.149
+IP: 71.129.195.163
+Domain: listad.com
+Domain: directcoupons.com
+Domain: directnewsletters.com
+
+File: 199
+IP: 71.129.195.163
+IP: 128.163.1.37
+IP: 128.163.45.125
+IP: 128.163.1.15
+IP: 5.1.0.14
+
+File: 2
+IP: 71.129.195.163
+IP: 64.208.135.32
+IP: 630.5.0.0
+Domain: tm0.com
+
+File: 20
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 200
+IP: 71.129.195.163
+IP: 64.243.56.29
+IP: 5.5.6.1
+IP: 165.201.199.58
+Domain: audiovox.com
+Domain: Xpedition.net
+
+File: 201
+IP: 71.129.195.163
+IP: 64.243.56.29
+Domain: yahoo.com
+Domain: audiovox.com
+Domain: adamspolishes.com
+Domain: detnews.com
+Domain: fordvehicles.com
+Domain: 50megs.com
+Domain: creative.com
+Domain: wieck.com
+Domain: mindspring.com
+Domain: fordtruckworld.com
+Domain: pie.net
+Domain: woodfam.com
+Domain: Xpedition.net
+Domain: sylvania.com
+Domain: gelighting.com
+
+File: 202
+IP: 71.129.195.163
+IP: 66.140.63.37
+IP: 207.115.63.102
+IP: 64.238.111.5
+IP: 127.0.0.1
+Domain: mercedesmailinglist.com
+Domain: tirerack.com
+
+File: 203
+IP: 71.129.195.163
+IP: 64.238.111.5
+Domain: yahoo.com
+Domain: mercedesmailinglist.com
+Domain: tirerack.com
+Domain: dhc.net
+Domain: tirexusa.com
+
+File: 204
+IP: 71.129.195.163
+IP: 172.20.105.12
+IP: 152.163.225.40
+Domain: piecefuldreams.co
+Domain: historyofquilts.com
+Domain: womenfolk.com
+Domain: aol.com
+Domain: piecefuldreams.com
+Domain: amazon.com
+Domain: antiquequiltdating.com
+
+File: 205
+IP: 152.3.78.41
+IP: 71.129.195.163
+IP: 152.3.78.35
+IP: 152.16.19.13
+Domain: duke.edu
+
+File: 206
+IP: 64.208.135.31
+IP: 71.129.195.163
+IP: 736.5.0.0
+Domain: tm0.com
+
+File: 207
+IP: 24.189.56.236
+IP: 128.192.1.75
+IP: 71.129.195.163
+IP: 128.192.1.101
+IP: 206.46.170.106
+IP: 5.01.05.20
+Domain: gbata.com
+
+File: 208
+IP: 199.181.77.205
+IP: 71.129.195.163
+Domain: tigerdirect.com
+Domain: TigerDirect.com
+Domain: tigeronline.com
+
+File: 209
+IP: 10.3.1.53
+IP: 71.129.195.163
+IP: 66.77.62.67
+Domain: petsmart.com
+
+File: 21
+IP: 149.173.6.49
+IP: 71.129.195.163
+IP: 10.19.11.46
+IP: 10.19.11.9
+IP: 10.4.3.6
+Domain: iuniverse.com
+Domain: sas.com
+
+File: 210
+IP: 71.129.195.163
+IP: 66.21.4.14
+Domain: ashford.com
+
+File: 211
+IP: 10.3.1.53
+IP: 71.129.195.163
+IP: 66.77.62.68
+Domain: petsmart.com
+
+File: 212
+IP: 66.218.67.248
+IP: 216.119.106.212
+IP: 66.218.66.65
+IP: 71.129.195.163
+IP: 5.1.1.6
+IP: 66.218.67.192
+IP: 24.185.80.240
+IP: 66.218.66.74
+IP: 216.119.106.46
+IP: 66.218.66.217
+IP: 66.218.66.216
+Domain: yahoo.com
+Domain: comThomasGeorge.com
+Domain: letsplay2.com
+Domain: thomasgeorge.com
+Domain: baseballguru.com
+
+File: 213
+IP: 216.73.90.44
+IP: 71.129.195.163
+IP: 10.21.6.200
+Domain: 4sure.com
+Domain: computers4sure.com
+
+File: 214
+IP: 71.129.195.163
+IP: 207.106.86.135
+Domain: pollen.com
+
+File: 215
+IP: 65.96.245.167
+IP: 71.129.195.163
+IP: 128.192.1.75
+IP: 128.192.1.101
+
+File: 216
+IP: 71.129.195.163
+IP: 66.180.245.21
+Domain: macworld.com
+
+File: 217
+IP: 216.198.200.12
+IP: 71.129.195.163
+Domain: essence.com
+Domain: chtah.com
+
+File: 218
+IP: 209.251.208.6
+IP: 71.129.195.163
+IP: 172.16.117.47
+IP: 216.223.192.21
+Domain: outdoorlife.com
+Domain: FishBoatCampHunt.com
+Domain: timeinc.net
+
+File: 219
+IP: 71.129.195.163
+IP: 003.01.10.10
+IP: 64.94.104.161
+Domain: akamai.net
+Domain: cooking.com
+
+File: 22
+IP: 71.129.195.163
+IP: 10.21.8.140
+IP: 216.73.90.114
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 220
+IP: 71.129.195.163
+IP: 216.91.57.155
+Domain: fundadvice.com
+
+File: 221
+IP: 71.129.195.163
+IP: 207.171.165.136
+Domain: www.am
+Domain: amazon.com
+
+File: 222
+IP: 71.129.195.163
+IP: 209.6.10.100
+IP: 207.172.4.76
+IP: 207.172.4.60
+Domain: electronichouse.com
+Domain: ElectronicHouse.com
+
+File: 223
+IP: 71.129.195.163
+IP: 209.190.241.7
+IP: 209.190.241.6
+Domain: beamworks.com
+Domain: montereydesign.com
+Domain: ilogix.com
+Domain: vio.com
+Domain: complete.co.il
+Domain: nds.com
+Domain: J.co.il
+Domain: tadcomm.com
+Domain: activecool.com
+Domain: bmc.com
+Domain: sagitta.co.il
+Domain: www.mh
+Domain: sqlink.com
+Domain: extreme.co.il
+Domain: jr.co.il
+Domain: cji.co.il
+Domain: taro.co.il
+Domain: commtouch.com
+
+File: 224
+IP: 71.129.195.163
+IP: 207.217.120.123
+IP: 65.56.25.37
+Domain: travelnow.com
+Domain: edufax.com
+Domain: parentingteens.com
+Domain: bizboommalls.com
+
+File: 225
+IP: 206.112.95.4
+IP: 71.129.195.163
+IP: 192.168.100.2
+Domain: mailermailer.com
+Domain: m1e.net
+
+File: 226
+IP: 71.129.195.163
+IP: 66.7.130.105
+IP: 127.0.0.1
+Domain: mywebwholesaler.com
+Domain: froogle.com
+Domain: etracks.com
+Domain: mbkwholesale.com
+Domain: bidpay.com
+Domain: auctionsection.com
+Domain: auctionwatch.com
+Domain: rodenimports.com
+Domain: MBKWholesale.com
+
+File: 227
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+Domain: techinformer.com
+
+File: 228
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 229
+IP: 71.129.195.163
+IP: 10.21.6.140
+IP: 216.73.90.37
+Domain: channelweb.com
+
+File: 23
+IP: 71.129.195.163
+IP: 149.173.6.53
+IP: 10.25.10.58
+Domain: sas.com
+
+File: 230
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 231
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 232
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 233
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 234
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 235
+IP: 71.129.195.163
+IP: 216.73.90.25
+IP: 10.21.6.70
+Domain: varbusiness.com
+
+File: 236
+IP: 71.129.195.163
+IP: 204.71.191.16
+Domain: techtarget.com
+Domain: ecommquest.com
+Domain: bcentral.com
+
+File: 237
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 238
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 239
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: doubleclick.net
+Domain: techinformer.com
+Domain: nextag.com
+Domain: idg.com
+Domain: pcworld.com
+Domain: idg.net
+
+File: 24
+IP: 71.129.195.163
+IP: 10.21.8.140
+IP: 216.73.90.112
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 240
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 241
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 242
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 243
+IP: 71.129.195.163
+IP: 198.31.62.65
+Domain: buy.com
+
+File: 244
+IP: 71.129.195.163
+IP: 216.73.90.84
+IP: 10.21.7.200
+Domain: varbusiness.com
+
+File: 245
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 246
+IP: 71.129.195.163
+IP: 198.3.122.35
+Domain: execforums.net
+Domain: idgexecforums.com
+Domain: idgef.com
+
+File: 247
+IP: 71.129.195.163
+IP: 12.158.13.152
+Domain: yahoo.com
+Domain: PreachingToday.com
+Domain: screenflex.com
+Domain: ZondervanChurchSource.com
+Domain: ChristianityToday.com
+Domain: LeadershipJournal.net
+
+File: 248
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 249
+IP: 71.129.195.163
+IP: 10.21.6.200
+IP: 216.73.90.43
+Domain: crn.com
+Domain: subscribecrn.com
+
+File: 25
+IP: 71.129.195.163
+IP: 129.7.1.20
+IP: 131.215.31.184
+IP: 131.215.31.40
+IP: 127.0.0.1
+Domain: monash.edu.au
+
+File: 250
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 251
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.com
+Domain: pcworld.com
+Domain: doubleclick.net
+Domain: idg.net
+
+File: 252
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 253
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 254
+IP: 71.129.195.163
+IP: 192.168.13.23
+Domain: idg.net
+
+File: 255
+IP: 216.73.90.62
+IP: 71.129.195.163
+IP: 10.21.7.70
+Domain: crn.com
+
+File: 256
+IP: 71.129.195.163
+IP: 216.73.90.78
+IP: 10.21.7.140
+Domain: crn.com
+
+File: 257
+IP: 209.251.208.6
+IP: 71.129.195.163
+IP: 209.251.208.18
+IP: 209.251.208.21
+Domain: fortune.com
+Domain: fsb.com
+Domain: indecherub.com
+Domain: tm0.com
+Domain: timeinc.net
+Domain: business2.com
+Domain: atwola.com
+
+File: 258
+IP: 71.129.195.163
+IP: 12.158.13.152
+Domain: CampusLife.net
+Domain: yahoo.com
+Domain: christianbook.com
+Domain: ChristianityToday.com
+
+File: 259
+IP: 71.129.195.163
+IP: 64.39.30.114
+IP: 5.0.2.1
+IP: 64.69.64.12
+IP: 24.240.26.116
+Domain: yahoo.com
+Domain: jupiterevents.com
+Domain: listchannel.com
+Domain: chi2003.org
+Domain: researchbuzz.com
+Domain: hotjobs.com
+Domain: cre8asiteforums.com
+Domain: com.com
+Domain: supportforums.org
+Domain: fastsearch.com
+Domain: internetnews.com
+Domain: poynter.org
+Domain: searchenginewatch.com
+Domain: searchengineguide.com
+Domain: webmasterworld.com
+Domain: ez2www.com
+Domain: pandia.com
+
+File: 26
+IP: 2.5.2.12
+IP: 172.16.105.11
+IP: 131.84.105.11
+IP: 71.129.195.163
+IP: 207.87.24.4
+IP: 131.84.1.19
+IP: 131.84.1.29
+
+File: 260
+IP: 71.129.195.163
+IP: 64.106.148.20
+Domain: 123greetings.com
+
+File: 261
+IP: 71.129.195.163
+IP: 209.133.105.16
+Domain: rottentomatoes.com
+
+File: 262
+IP: 71.129.195.163
+IP: 132.185.132.82
+IP: 212.58.224.111
+IP: 132.185.132.12
+Domain: bbc.co.uk
+
+File: 263
+IP: 71.129.195.163
+IP: 132.185.240.13
+IP: 212.58.224.111
+IP: 212.58.228.82
+Domain: bbc.co.uk
+
+File: 264
+IP: 64.12.46.84
+IP: 71.129.195.163
+IP: 64.12.46.86
+Domain: warnerbros.com
+Domain: warnervideo.com
+Domain: cartoonmonsoon.com
+Domain: americangreetings.com
+
+File: 265
+IP: 71.129.195.163
+IP: 66.180.246.24
+Domain: elle.com
+
+File: 266
+IP: 71.129.195.163
+IP: 216.242.11.24
+Domain: yahoo.com
+Domain: perfumania.com
+Domain: tigerdirectlinks.com
+Domain: ttasuperstores.com
+
+File: 267
+IP: 66.181.193.97
+IP: 71.129.195.163
+Domain: AntiquesandTheArts.com
+Domain: antiquesandthearts.com
+
+File: 268
+IP: 71.129.195.163
+IP: 152.163.225.40
+IP: 204.71.191.207
+Domain: veritasnetwork.org
+Domain: mercydrops.com
+Domain: paltalk.com
+Domain: mercydrops.org
+Domain: bcentral.com
+
+File: 269
+IP: 71.129.195.163
+IP: 64.224.2.17
+IP: 64.163.28.107
+IP: 64.224.219.86
+Domain: slick.com
+Domain: businessbyphone.com
+Domain: salesdog.com
+Domain: 1shoppingcart.com
+
+File: 27
+IP: 71.129.195.163
+IP: 64.85.80.196
+IP: 64.132.70.201
+Domain: startsampling.com
+Domain: jsmart.com
+Domain: britannica.com
+Domain: wordcentral.com
+
+File: 270
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.104
+Domain: amazon.com
+Domain: intelihealth.com
+Domain: mdchoice.com
+
+File: 271
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.106
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 272
+IP: 71.129.195.163
+IP: 66.54.228.102
+IP: 192.168.2.200
+Domain: amazon.com
+Domain: intelihealth.com
+Domain: mdchoice.com
+
+File: 273
+IP: 71.129.195.163
+IP: 66.54.228.103
+IP: 192.168.2.200
+Domain: amazon.com
+Domain: intelihealth.com
+Domain: mdchoice.com
+
+File: 274
+IP: 71.129.195.163
+IP: 66.54.228.102
+IP: 192.168.2.200
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 275
+IP: 71.129.195.163
+IP: 66.54.228.102
+IP: 192.168.2.200
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 276
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.105
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 277
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.105
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 278
+IP: 71.129.195.163
+IP: 66.54.228.103
+IP: 192.168.2.200
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 279
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.104
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 28
+IP: 71.129.195.163
+IP: 172.20.120.70
+IP: 207.189.75.70
+IP: 172.20.120.74
+Domain: mlb.com
+
+File: 280
+IP: 66.54.228.101
+IP: 71.129.195.163
+IP: 192.168.2.200
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 281
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.105
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 282
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.104
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 283
+IP: 71.129.195.163
+IP: 66.54.228.103
+IP: 192.168.2.200
+Domain: amazon.com
+Domain: intelihealth.com
+Domain: mdchoice.com
+
+File: 284
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.105
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 285
+IP: 71.129.195.163
+IP: 66.54.228.103
+IP: 192.168.2.200
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 286
+IP: 71.129.195.163
+IP: 192.168.2.200
+IP: 66.54.228.106
+Domain: intelihealth.com
+Domain: amazon.com
+
+File: 287
+IP: 71.129.195.163
+IP: 66.180.244.25
+Domain: health.org
+Domain: irs.gov
+Domain: freethings4educators.com
+Domain: topica.com
+Domain: amazon.com
+
+File: 288
+IP: 209.96.210.79
+IP: 71.129.195.163
+Domain: arcamax.com
+
+File: 289
+IP: 71.129.195.163
+IP: 12.158.13.152
+Domain: yahoo.com
+Domain: christianbook.com
+Domain: visionvideo.com
+Domain: ChristianHistory.net
+Domain: ChristianityToday.com
+
+File: 29
+IP: 71.129.195.163
+IP: 216.73.90.121
+IP: 10.21.8.200
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 290
+IP: 71.129.195.163
+IP: 66.180.244.23
+Domain: scholarshipexperts.com
+Domain: topica.com
+Domain: louisiana.edu
+
+File: 291
+IP: 71.129.195.163
+IP: 64.85.10.4
+Domain: globetrotters.co.uk
+Domain: travellady.com
+
+File: 292
+IP: 71.129.195.163
+IP: 198.31.62.244
+Domain: buy.com
+
+File: 293
+IP: 71.129.195.163
+IP: 66.180.244.25
+Domain: topica.com
+Domain: estellegraphics.com
+Domain: cartoonwork.com
+Domain: unionvoice.org
+
+File: 294
+IP: 128.121.224.178
+IP: 71.129.195.163
+Domain: backroads.com
+Domain: familytravelforum.com
+
+File: 295
+IP: 216.198.200.12
+IP: 71.129.195.163
+Domain: lakegrp.com
+Domain: chtah.com
+Domain: wsj.com
+
+File: 296
+IP: 71.129.195.163
+IP: 204.71.191.184
+Domain: bcentral.com
+Domain: google.com
+Domain: la.ca.us
+Domain: website101.com
+Domain: WebSite101.com
+Domain: SearchEngineOptimism.com
+
+File: 297
+IP: 71.129.195.163
+IP: 209.50.251.197
+Domain: mihinc.com
+Domain: airwindwater.com
+Domain: airenergywater.com
+Domain: leadlightning.com
+Domain: macromedia.com
+Domain: homeofficedigest.com
+
+File: 298
+IP: 71.129.195.163
+IP: 8.19.36.67
+Domain: scifi.com
+Domain: usanetworks.com
+Domain: doubleclick.net
+Domain: sparklist.com
+
+File: 299
+IP: 71.129.195.163
+IP: 216.39.115.57
+Domain: adz.cc
+Domain: webloons.net
+Domain: mb00.net
+Domain: pacificcoast.net
+Domain: top50.to
+Domain: 1freesite.com
+
+File: 3
+IP: 71.129.195.163
+IP: 66.180.246.21
+Domain: akamai.net
+
+File: 30
+IP: 71.129.195.163
+IP: 10.21.8.140
+IP: 216.73.90.116
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 300
+IP: 71.129.195.163
+IP: 12.158.13.152
+Domain: yahoo.com
+Domain: christianbook.com
+Domain: visionvideo.com
+Domain: ChristianityToday.com
+Domain: leftbehind.com
+Domain: christianitytoday.com
+
+File: 301
+IP: 71.129.195.163
+IP: 66.180.244.29
+Domain: topica.com
+Domain: aplusfreestuff.com
+
+File: 302
+IP: 71.129.195.163
+IP: 66.180.244.24
+Domain: valueclick.com
+Domain: topica.com
+Domain: freestuffchannel.com
+Domain: directtrack.com
+Domain: cc.st
+Domain: top50.to
+Domain: websponsors.com
+
+File: 303
+IP: 213.40.196.63
+IP: 71.129.195.163
+IP: 127.0.0.1
+Domain: theregister.co.uk
+Domain: vcisp.net
+
+File: 304
+IP: 66.218.67.166
+IP: 71.129.195.163
+IP: 66.218.67.192
+IP: 66.218.66.70
+IP: 12.6.12.6
+IP: 66.218.66.78
+IP: 66.218.66.216
+Domain: pjvault.com
+Domain: yahoo.com
+
+File: 305
+IP: 71.129.195.163
+IP: 216.91.57.182
+Domain: outfront.net
+Domain: storefront.net
+Domain: frontpagewebmaster.com
+Domain: wordsinbusiness.com
+Domain: frontpagecommerce.com
+Domain: appliedi.net
+
+File: 306
+IP: 71.129.195.163
+IP: 199.201.1.18
+Domain: harpercollins.com
+
+File: 307
+IP: 71.129.195.163
+IP: 199.201.1.18
+Domain: harpercollins.com
+Domain: w3.org
+
+File: 308
+IP: 71.129.195.163
+IP: 199.201.1.18
+Domain: harpercollins.com
+Domain: sparklit.com
+Domain: authortracker.com
+
+File: 309
+IP: 71.129.195.163
+IP: 199.201.1.18
+Domain: harpercollins.com
+
+File: 31
+IP: 209.249.68.187
+IP: 71.129.195.163
+Domain: clubphoto.com
+
+File: 310
+IP: 71.129.195.163
+IP: 199.201.1.18
+Domain: harpercollins.com
+Domain: bodyforlife.com
+
+File: 311
+IP: 71.129.195.163
+IP: 66.95.174.34
+Domain: cwrld.com
+Domain: computerworld.com
+
+File: 312
+IP: 71.129.195.163
+IP: 206.67.55.250
+Domain: yahoo.com
+Domain: cbtnuggets.com
+Domain: certifyexpress.com
+Domain: getcertified4less.com
+Domain: vtc.com
+Domain: mcseguide.com
+Domain: joincbd.com
+Domain: dice.com
+Domain: cramsession.com
+Domain: trainsignal.com
+Domain: microsoft.com
+Domain: programfiles.com
+Domain: examnotes.net
+Domain: freetechmail.org
+Domain: techtutorials.com
+Domain: hitbox.com
+Domain: clickbank.net
+Domain: brainbuzz.com
+Domain: mcmcse.com
+
+File: 313
+IP: 71.129.195.163
+IP: 204.71.191.9
+Domain: yahoo.com
+Domain: upgradesource.com
+Domain: bcentral.com
+
+File: 314
+IP: 66.218.66.80
+IP: 66.218.66.69
+IP: 66.218.67.129
+IP: 71.129.195.163
+IP: 66.218.66.76
+IP: 66.218.66.217
+IP: 207.50.39.223
+IP: 66.218.67.199
+IP: 66.218.67.146
+IP: 66.218.66.216
+Domain: care2.com
+Domain: techdirect.com
+Domain: cyberbargins.net
+Domain: blackdog.net
+Domain: cstone.net
+Domain: a0kteacherstuff.com
+Domain: amaonline.com
+Domain: officehiway.com
+Domain: 00fun.com
+Domain: virtualpresents.com
+Domain: educationcu.com
+Domain: annieshomepage.com
+Domain: billybear4kids.com
+Domain: childfun.com
+Domain: teelfamily.com
+Domain: virtualchocolate.com
+Domain: geocities.com
+Domain: yahoo.com
+Domain: shareasale.com
+Domain: wwvisions.com
+Domain: kidsdomain.com
+Domain: freeservers.com
+Domain: windowware.com
+
+File: 315
+IP: 71.129.195.163
+IP: 66.180.244.26
+Domain: topica.com
+Domain: decordelights.com
+
+File: 316
+IP: 71.129.195.163
+IP: 10.200.5.46
+IP: 64.28.75.177
+Domain: ed4.net
+Domain: ed10.net
+
+File: 317
+IP: 71.129.195.163
+IP: 10.200.5.46
+IP: 64.28.75.177
+Domain: ed4.net
+Domain: ed10.net
+
+File: 318
+IP: 71.129.195.163
+IP: 66.95.174.34
+Domain: cwrld.com
+Domain: computerworld.com
+
+File: 319
+IP: 71.129.195.163
+IP: 12.39.246.35
+IP: 63.240.17.194
+Domain: iie.org
+Domain: cfsv.org
+Domain: gapschool.org
+Domain: viacom.com
+Domain: fema.gov
+Domain: bayarea.com
+Domain: boardhost.com
+Domain: knowhivaids.org
+Domain: fordifp.net
+Domain: gatesfoundation.org
+Domain: nexgensystems.com
+Domain: saintpaulfoundation.org
+Domain: ywcaofstpaul.org
+Domain: pcf.org
+Domain: seliger.com
+Domain: hhs.gov
+Domain: fordfound.org
+Domain: hbf.org
+Domain: crfusa.com
+Domain: kff.org
+Domain: gopbi.com
+Domain: spelman.edu
+Domain: cleveland.com
+Domain: ktca.org
+Domain: jewishminnesota.org
+Domain: cvt.org
+Domain: gao.gov
+Domain: armoryarts.org
+Domain: milwaukeejewish.org
+Domain: fdncenter.org
+
+File: 32
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.163
+Domain: myabout.com
+Domain: about.com
+
+File: 320
+IP: 209.119.0.19
+IP: 71.129.195.163
+IP: 209.119.0.109
+IP: 24.153.64.2
+IP: 68.83.56.51
+Domain: teachersandfamilies.com
+Domain: teachersfirst.co
+Domain: teachersfirst.com
+
+File: 321
+IP: 199.249.170.53
+IP: 71.129.195.163
+Domain: billboard.com
+
+File: 322
+IP: 66.218.66.96
+IP: 209.240.212.82
+IP: 71.129.195.163
+IP: 66.218.66.218
+IP: 66.218.66.99
+IP: 209.240.212.5
+Domain: yahoo.com
+Domain: webdirecthosting.com
+Domain: dogwatch.net
+
+File: 323
+IP: 71.129.195.163
+IP: 66.180.244.24
+Domain: topica.com
+Domain: muzikoszona.com
+
+File: 324
+IP: 71.129.195.163
+IP: 66.180.244.24
+Domain: topica.com
+
+File: 325
+IP: 71.129.195.163
+IP: 216.98.144.131
+Domain: goldbar.net
+Domain: getmotivation.com
+Domain: snurl.com
+Domain: freesuccessaudios.com
+
+File: 326
+IP: 71.129.195.163
+IP: 192.168.1.121
+IP: 64.14.67.206
+Domain: dmreview.com
+Domain: echomail.com
+
+File: 327
+IP: 71.129.195.163
+IP: 12.129.205.53
+Domain: infobeat.com
+Domain: flowgo.com
+
+File: 328
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 12.129.205.68
+Domain: intelligentx.com
+Domain: infobeat.com
+Domain: flowgo.com
+
+File: 329
+IP: 71.129.195.163
+IP: 150.216.17.93
+IP: 66.218.67.200
+IP: 66.218.66.216
+IP: 66.218.66.108
+Domain: yahoo.com
+Domain: ecu.edu
+
+File: 33
+IP: 71.129.195.163
+IP: 216.73.90.126
+IP: 10.21.8.200
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 330
+IP: 71.129.195.163
+IP: 192.215.176.100
+Domain: emusic.com
+Domain: mp3.com
+Domain: click.my
+Domain: myreg.net
+
+File: 331
+IP: 71.129.195.163
+IP: 207.44.180.91
+Domain: cyberdiet.com
+Domain: revivalsoy.com
+
+File: 332
+IP: 71.129.195.163
+IP: 209.75.40.44
+IP: 209.75.40.42
+Domain: realage.com
+
+File: 333
+IP: 71.129.195.163
+IP: 209.11.65.230
+Domain: greyemail.co
+Domain: ww5.gr
+Domain: healthscoutnews.com
+Domain: greyemail.com
+Domain: drkoop.com
+Domain: vitacost.com
+Domain: mdchoice.com
+
+File: 334
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.164
+Domain: myabout.com
+Domain: about.com
+
+File: 335
+IP: 63.211.217.182
+IP: 71.129.195.163
+IP: 192.168.0.53
+Domain: whatcounts.com
+Domain: away.com
+Domain: akamai.net
+
+File: 336
+IP: 71.129.195.163
+IP: 129.79.5.198
+IP: 129.79.1.75
+IP: 129.79.1.81
+Domain: iub.edu
+Domain: iusb.edu
+Domain: ipfw.edu
+Domain: iu.edu
+Domain: indiana.edu
+Domain: iuk.edu
+Domain: iun.edu
+Domain: ius.edu
+Domain: iupui.edu
+
+File: 337
+IP: 71.129.195.163
+IP: 209.64.62.42
+Domain: csmonitorarchive.com
+Domain: csmonitor.com
+Domain: csmonitortreeless.com
+
+File: 338
+IP: 71.129.195.163
+IP: 10.21.7.70
+IP: 216.73.90.64
+Domain: epicurious.com
+Domain: doubleclick.net
+
+File: 339
+IP: 216.39.115.52
+IP: 71.129.195.163
+Domain: mb00.net
+Domain: sho.com
+Domain: advocate.com
+
+File: 34
+IP: 71.129.195.163
+IP: 12.5.136.141
+Domain: southwest.com
+
+File: 340
+IP: 71.129.195.163
+IP: 12.24.138.193
+IP: 127.0.0.1
+Domain: WineLoversPage.com
+Domain: nextwine.com
+Domain: nettivuori.com
+Domain: wineloverspage.com
+Domain: robertkacher.com
+Domain: kysela.com
+
+File: 341
+IP: 71.129.195.163
+IP: 206.41.198.228
+Domain: nutricise.com
+
+File: 342
+IP: 71.129.195.163
+IP: 207.44.208.37
+IP: 67.29.164.22
+IP: 64.157.8.12
+Domain: davedraper.com
+
+File: 343
+IP: 213.78.126.215
+IP: 66.218.67.248
+IP: 66.218.66.95
+IP: 71.129.195.163
+IP: 66.218.66.92
+IP: 66.218.66.218
+Domain: yahoo.com
+Domain: wdisneyw.co.uk
+
+File: 344
+IP: 63.123.232.163
+IP: 71.129.195.163
+IP: 63.123.232.164
+Domain: epicurious.com
+Domain: concierge.com
+
+File: 345
+IP: 71.129.195.163
+IP: 354.5.0.0
+IP: 64.208.135.25
+Domain: tm0.com
+
+File: 346
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.163
+Domain: myabout.com
+Domain: about.com
+
+File: 347
+IP: 71.129.195.163
+IP: 212.209.217.134
+IP: 172.20.10.20
+Domain: w3.org
+Domain: deandeluca.com
+
+File: 348
+IP: 71.129.195.163
+IP: 66.180.244.24
+Domain: topica.com
+Domain: scenery.org
+
+File: 349
+IP: 165.26.152.8
+IP: 71.129.195.163
+IP: 12.2.142.8
+IP: 165.26.153.79
+IP: 66.180.244.26
+Domain: topica.com
+Domain: brisk.cz
+Domain: www.mo
+
+File: 35
+IP: 71.129.195.163
+IP: 172.20.120.70
+IP: 207.189.75.70
+IP: 172.20.120.74
+Domain: mlb.com
+
+File: 350
+IP: 66.218.66.83
+IP: 12.150.73.253
+IP: 71.129.195.163
+IP: 66.218.67.132
+IP: 66.218.67.193
+IP: 66.218.66.217
+Domain: yahoo.com
+Domain: thepetcenter.com
+Domain: iditarod.com
+Domain: workingdogweb.com
+Domain: washtimes.com
+Domain: WorkingDogWeb.com
+Domain: cumberlink.com
+Domain: zwire.com
+
+File: 351
+IP: 71.129.195.163
+IP: 10.40.1.113
+IP: 66.35.193.83
+
+File: 352
+IP: 64.141.71.139
+IP: 71.129.195.163
+Domain: ezmailpro.com
+Domain: nationalgolfer.com
+
+File: 353
+IP: 66.35.193.85
+IP: 71.129.195.163
+IP: 10.40.1.112
+
+File: 354
+IP: 519.0.0.4
+IP: 71.129.195.163
+IP: 66.180.247.57
+Domain: tfmb.net
+Domain: bluedolphin.com
+
+File: 355
+IP: 71.129.195.163
+IP: 192.25.225.19
+Domain: mx0.net
+
+File: 356
+IP: 71.129.195.163
+IP: 130.94.5.19
+Domain: lonelyplanet.com
+
+File: 357
+IP: 66.218.67.139
+IP: 71.129.195.163
+IP: 66.218.66.66
+IP: 66.218.66.218
+IP: 66.218.67.197
+IP: 66.218.66.79
+IP: 205.188.209.11
+Domain: yahoo.com
+Domain: nakedmolerat.org.uk
+
+File: 358
+IP: 71.129.195.163
+IP: 216.71.32.56
+Domain: workingmother.com
+
+File: 359
+IP: 10.20.40.142
+IP: 71.129.195.163
+IP: 63.251.135.74
+Domain: rs6.ne
+Domain: rs6.net
+Domain: doityourself.com
+Domain: roving.com
+Domain: constantcontact.com
+Domain: roving.co
+
+File: 36
+IP: 71.129.195.163
+IP: 216.73.90.97
+IP: 10.21.8.10
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 360
+IP: 66.218.66.93
+IP: 66.218.67.251
+IP: 71.129.195.163
+IP: 66.218.66.102
+IP: 217.136.195.27
+IP: 66.218.67.198
+IP: 66.218.66.216
+Domain: cdaac.ca
+Domain: yahoo.com
+
+File: 361
+IP: 71.129.195.163
+IP: 209.96.210.86
+Domain: arcamax.com
+
+File: 362
+IP: 71.129.195.163
+IP: 129.79.1.73
+IP: 129.79.1.76
+IP: 129.79.17.202
+IP: 129.79.1.81
+Domain: indiana.edu
+Domain: iu.edu
+
+File: 363
+IP: 66.117.147.33
+IP: 71.129.195.163
+IP: 66.117.147.32
+Domain: nolo.com
+
+File: 364
+IP: 71.129.195.163
+IP: 66.54.218.128
+IP: 216.157.143.2
+Domain: woodbury.com
+Domain: strugglingteens.com
+
+File: 365
+IP: 71.129.195.163
+IP: 204.71.191.9
+Domain: lef.org
+Domain: bcentral.com
+
+File: 366
+IP: 71.129.195.163
+IP: 217.71.120.249
+Domain: yourmailinglistprovider.com
+Domain: dexterity.com
+
+File: 367
+IP: 71.129.195.163
+IP: 66.180.244.25
+Domain: topica.com
+
+File: 368
+IP: 71.129.195.163
+IP: 204.71.191.182
+Domain: bcentral.com
+Domain: hotelgenie.com
+Domain: londonnet.co.uk
+
+File: 369
+IP: 71.129.195.163
+IP: 17.254.6.172
+IP: 17.128.113.72
+Domain: itunes.com
+Domain: ax.ph
+Domain: edgesuite.net
+Domain: apple.com
+Domain: apple.co
+Domain: edgesuite.ne
+
+File: 37
+IP: 71.129.195.163
+IP: 63.241.19.114
+Domain: mp3.co
+Domain: mp3.com
+
+File: 370
+IP: 71.129.195.163
+IP: 66.180.244.22
+Domain: topica.com
+
+File: 371
+IP: 71.129.195.163
+IP: 66.35.204.217
+Domain: fightdivx.com
+Domain: 1800flowers.com
+Domain: uptilt.com
+Domain: dvdpriceguide.com
+
+File: 372
+IP: 66.218.66.68
+IP: 172.186.86.154
+IP: 71.129.195.163
+IP: 66.218.66.218
+IP: 66.218.66.74
+IP: 66.218.67.178
+IP: 66.218.67.200
+Domain: yahoo.com
+Domain: rarerecordsuk.com
+Domain: vinylrecords.co.uk
+Domain: mcmail.com
+
+File: 373
+IP: 65.213.231.20
+IP: 71.129.195.163
+IP: 127.0.0.1
+Domain: abcparenting.com
+Domain: esafety.com
+Domain: parenthood.com
+Domain: recipexchange.com
+Domain: InsWeb.com
+
+File: 374
+IP: 202.139.235.244
+IP: 71.129.195.163
+IP: 203.2.192.85
+IP: 63.60.243.34
+Domain: sfnsw.org.au
+
+File: 375
+IP: 71.129.195.163
+IP: 66.180.244.24
+Domain: topica.com
+Domain: LearningLove.com
+Domain: snipurl.com
+
+File: 376
+IP: 71.129.195.163
+IP: 66.180.244.26
+Domain: printablechecklists.com
+Domain: writersarea.com
+Domain: stopsexoffenders.org
+Domain: ecalnow.com
+Domain: myparentime.com
+Domain: jupiterparents.com
+Domain: topica.com
+Domain: stopsexoffenders.com
+Domain: joilasnick.com
+Domain: childandfamilysafety.com
+
+File: 377
+IP: 71.129.195.163
+IP: 207.189.106.22
+IP: 192.168.40.121
+Domain: 4at1.com
+Domain: 4at2.com
+Domain: tivo.com
+
+File: 378
+IP: 71.129.195.163
+IP: 3.0.6.32
+IP: 195.40.6.30
+Domain: suntimes.com
+Domain: theregister.co.uk
+Domain: scoop.co.nz
+Domain: zprod.org
+Domain: ananova.com
+Domain: ibell.co.uk
+Domain: ntk.net
+Domain: cndb.com
+Domain: williamgibsonbooks.com
+Domain: deutschepost.de
+Domain: ntkmart.com
+Domain: onlinecasinonews.com
+Domain: archive.org
+Domain: london2600.org.uk
+Domain: creativecommons.org
+Domain: entrances2hell.co.uk
+Domain: gagpipe.com
+Domain: stopwar.org.uk
+Domain: independent.co.uk
+Domain: ipv6tf.org
+Domain: schnews.org.uk
+Domain: stand.org.uk
+Domain: alioth.net
+Domain: harbaum.org
+Domain: hiddenmysteries.com
+Domain: lonix.org.uk
+Domain: imdb.com
+Domain: google.com
+Domain: netcraft.com
+Domain: laurentdelaye.com
+Domain: microsoft.com
+Domain: johnwilde.co.uk
+Domain: screenit.com
+Domain: demon.co.uk
+
+File: 379
+IP: 64.156.187.43
+IP: 71.129.195.163
+Domain: smilepop.com
+
+File: 38
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: dummies.com
+Domain: hungryminds.com
+Domain: wiley.com
+
+File: 380
+IP: 71.129.195.163
+IP: 65.36.58.163
+Domain: realtytimes.com
+Domain: yourcompetitiveadvantage.com
+Domain: zairmail.com
+
+File: 381
+IP: 71.129.195.163
+IP: 65.36.58.163
+Domain: realtytimes.com
+Domain: yourcompetitiveadvantage.com
+
+File: 382
+IP: 66.180.244.28
+IP: 71.129.195.163
+Domain: topica.com
+Domain: cherokee.org
+Domain: lapratt.com
+
+File: 383
+IP: 207.229.35.190
+IP: 71.129.195.163
+IP: 66.218.66.218
+IP: 199.185.130.23
+IP: 66.218.66.74
+IP: 66.218.67.201
+Domain: yahoo.com
+Domain: melbears.com
+
+File: 384
+IP: 71.129.195.163
+IP: 216.91.57.131
+Domain: jupiterevents.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 385
+IP: 71.129.195.163
+IP: 209.239.41.3
+Domain: thundervalleyracing.com
+
+File: 386
+IP: 71.129.195.163
+IP: 209.104.37.77
+Domain: ticketmaster.com
+
+File: 387
+IP: 71.129.195.163
+IP: 207.99.115.195
+Domain: worldwinner.com
+Domain: personalizedpartyfavor.com
+Domain: azjmp.com
+Domain: amazon.com
+Domain: iwnl.net
+Domain: fatwinner.com
+
+File: 388
+IP: 71.129.195.163
+IP: 207.99.115.195
+Domain: iwnl.net
+Domain: herbalsensations.com
+Domain: discoverhealthyproducts.com
+Domain: amazon.com
+
+File: 389
+IP: 71.129.195.163
+IP: 151.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 39
+IP: 71.129.195.163
+IP: 10.21.8.10
+IP: 216.73.90.92
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 390
+IP: 71.129.195.163
+IP: 207.99.115.195
+Domain: ThePokerLounge.com
+Domain: herbalsensations.com
+Domain: ClickCash.com
+Domain: laughmeister.com
+Domain: albionmedical.com
+Domain: ifriends.net
+Domain: avhumor.com
+Domain: WebPower.com
+Domain: sexuality.org
+Domain: iwnl.net
+Domain: antiaginglifeextension.com
+Domain: inadult.com
+Domain: worldwidecookbook.com
+
+File: 391
+IP: 71.129.195.163
+IP: 207.99.115.195
+Domain: iwnl.net
+Domain: antiaginglifeextension.com
+Domain: personalizedpartyfavor.com
+Domain: azjmp.com
+Domain: amazon.com
+
+File: 392
+IP: 71.129.195.163
+IP: 208.233.209.202
+Domain: dvdempire.com
+
+File: 393
+IP: 71.129.195.163
+IP: 207.99.115.195
+Domain: iwnl.net
+Domain: adreporting.com
+
+File: 394
+IP: 71.129.195.163
+IP: 207.99.115.159
+Domain: iwantnewsletters.com
+Domain: adreporting.com
+Domain: azoogleads.com
+Domain: azjmp.com
+Domain: iwnl.net
+
+File: 395
+IP: 71.129.195.163
+IP: 152.163.225.40
+IP: 172.31.37.8
+Domain: theonlineinvestor.com
+Domain: scottrade.com
+
+File: 396
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 397
+IP: 71.129.195.163
+IP: 157.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 398
+IP: 71.129.195.163
+IP: 64.133.121.13
+
+File: 399
+IP: 71.129.195.163
+IP: 208.42.190.106
+Domain: usdoj.gov
+Domain: taxtalktoday.com
+Domain: irs.gov
+Domain: taxtalktoday.tv
+Domain: w3.org
+Domain: govdelivery.com
+Domain: taxforuminfo.com
+
+File: 4
+IP: 71.129.195.163
+IP: 10.21.8.140
+IP: 216.73.90.116
+Domain: rei.com
+
+File: 40
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: dummies.com
+Domain: hungryminds.com
+Domain: ebay.com
+Domain: wiley.com
+
+File: 400
+IP: 71.129.195.163
+IP: 204.71.191.181
+Domain: bcentral.com
+
+File: 401
+IP: 71.129.195.163
+IP: 204.77.185.233
+Domain: accucut.com
+
+File: 402
+IP: 71.129.195.163
+IP: 4.2.2.200
+IP: 66.218.66.101
+IP: 66.218.66.218
+IP: 63.191.81.74
+IP: 207.69.200.25
+IP: 66.218.67.200
+Domain: yahoo.com
+Domain: aardvarkarchie.com
+Domain: cafeshops.com
+Domain: hgtv.com
+Domain: humorlinks.com
+Domain: kicken.com
+Domain: yimg.com
+
+File: 403
+IP: 204.71.191.179
+IP: 71.129.195.163
+Domain: llbean.com
+Domain: hodgman.com
+Domain: flyfishingshow.com
+Domain: bcentral.com
+Domain: igfa.org
+Domain: hotelbuenavista.co
+Domain: alaskafishingtours.com
+Domain: flygirls.ws
+Domain: fishingworks.com
+Domain: womensflyfishing.net
+Domain: bajafly.com
+Domain: landbigfish.com
+
+File: 404
+IP: 71.129.195.163
+IP: 216.91.57.174
+Domain: leeshoreagency.com
+Domain: bookmentor.com
+Domain: sparklist.com
+Domain: fishsoul.com
+Domain: writingforchildren.com
+Domain: ScriptViking.com
+Domain: stories.com
+Domain: writersonlineworkshops.com
+Domain: madisonu.com
+Domain: writersdigest.com
+Domain: RoysDomains.com
+Domain: geocities.com
+Domain: WritersScriptNetwork.com
+Domain: aboutneatideas.com
+Domain: fwpublications.com
+Domain: writersmarket.com
+Domain: pubinsider.com
+Domain: GetPublished.com
+
+File: 405
+IP: 71.129.195.163
+IP: 207.203.254.110
+IP: 10.70.132.21
+
+File: 406
+IP: 10.20.40.142
+IP: 71.129.195.163
+IP: 63.251.135.75
+Domain: yahoo.com
+Domain: rs6.net
+Domain: roving.com
+Domain: toolsforwellness.com
+
+File: 407
+IP: 71.129.195.163
+IP: 10.3.3.60
+IP: 129.250.156.242
+Domain: divinems.com
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+Domain: hearstmags.com
+Domain: cosmopolitan.com
+
+File: 408
+IP: 71.129.195.163
+IP: 198.65.155.52
+Domain: ecrush.com
+
+File: 409
+IP: 208.215.141.146
+IP: 71.129.195.163
+IP: 208.215.141.170
+Domain: angelfire.com
+Domain: nytimes.co
+Domain: imdb.com
+Domain: google.com
+Domain: yngwie.org
+Domain: insound.com
+Domain: sputnik7.com
+Domain: turnstyle.com
+Domain: epitonic.com
+
+File: 41
+IP: 10.21.9.70
+IP: 71.129.195.163
+IP: 216.73.90.141
+Domain: myabout.com
+Domain: about.com
+
+File: 410
+IP: 71.129.195.163
+IP: 172.16.4.51
+IP: 216.244.97.177
+Domain: sesameworkshop.org
+
+File: 411
+IP: 71.129.195.163
+IP: 192.168.114.50
+IP: 63.240.212.9
+Domain: ebgames.com
+
+File: 412
+IP: 71.129.195.163
+IP: 64.14.62.102
+Domain: ipo.com
+Domain: ameritrade.com
+Domain: doubleclick.net
+
+File: 413
+IP: 71.129.195.163
+IP: 207.178.137.31
+Domain: ecommercetimes.com
+Domain: newsfactor.com
+Domain: EcommerceTimes.com
+
+File: 414
+IP: 71.129.195.163
+IP: 63.236.85.130
+IP: 65.171.101.69
+Domain: hon.ch
+Domain: healthatoz.com
+
+File: 415
+IP: 71.129.195.163
+IP: 216.234.106.37
+Domain: incrediblegolfsavings.com
+Domain: tgwmall.com
+Domain: golfhound.com
+
+File: 416
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: sparklist.com
+Domain: com.com
+Domain: javascript.com
+Domain: datamation.com
+Domain: kde.org
+Domain: jupiterevents.com
+Domain: w3.org
+Domain: javascriptsource.com
+Domain: pcre.org
+Domain: apple.com
+Domain: webreference.com
+Domain: earthweb.com
+
+File: 417
+IP: 71.129.195.163
+IP: 64.154.80.196
+Domain: hitbox.com
+Domain: verticalresponse.com
+
+File: 418
+IP: 71.129.195.163
+IP: 209.247.79.168
+Domain: educationworld.com
+
+File: 419
+IP: 172.20.125.74
+IP: 71.129.195.163
+IP: 63.193.114.20
+IP: 216.74.142.132
+IP: 172.16.7.137
+Domain: mlb.com
+
+File: 42
+IP: 71.129.195.163
+IP: 207.25.80.40
+Domain: allpolitics.com
+Domain: atwola.com
+Domain: cnn.com
+Domain: aol.com
+Domain: CNN.com
+
+File: 420
+IP: 71.129.195.163
+IP: 64.154.80.196
+Domain: verticalresponse.com
+
+File: 421
+IP: 71.129.195.163
+IP: 207.21.222.155
+Domain: a2zrewards.com
+
+File: 422
+IP: 71.129.195.163
+IP: 64.244.29.32
+Domain: crosswalk.com
+Domain: oneplace.com
+Domain: goshen.net
+
+File: 423
+IP: 71.129.195.163
+IP: 63.193.114.20
+IP: 209.157.66.242
+IP: 64.70.32.115
+Domain: mailshell.com
+Domain: mailshell.co
+Domain: matchnet.com
+
+File: 424
+IP: 209.157.66.235
+IP: 71.129.195.163
+IP: 63.193.114.20
+IP: 216.12.219.209
+Domain: wordsmith.org
+Domain: audiobookstoday.com
+
+File: 425
+IP: 71.129.195.163
+IP: 204.71.191.23
+Domain: bcentral.com
+
+File: 426
+IP: 71.129.195.163
+IP: 206.169.233.68
+IP: 172.16.0.180
+Domain: circuitcity.com
+
+File: 427
+IP: 199.249.170.53
+IP: 71.129.195.163
+Domain: brandweek.com
+Domain: vnuemedia.com
+
+File: 428
+IP: 192.168.100.1
+IP: 71.129.195.163
+IP: 206.112.95.3
+Domain: mailermailer.com
+Domain: m1e.net
+
+File: 429
+IP: 192.168.100.1
+IP: 71.129.195.163
+IP: 206.112.95.3
+Domain: mailermailer.com
+Domain: m1e.net
+
+File: 43
+IP: 71.129.195.163
+IP: 216.73.90.115
+IP: 10.21.8.140
+Domain: sportingnews.com
+
+File: 430
+IP: 63.146.120.71
+IP: 71.129.195.163
+IP: 10.1.3.50
+Domain: akamaitech.net
+Domain: musicmatch.com
+
+File: 431
+IP: 71.129.195.163
+Domain: mailshell.com
+
+File: 432
+IP: 71.129.195.163
+Domain: mailshell.com
+
+File: 433
+IP: 71.129.195.163
+Domain: mailshell.com
+
+File: 434
+IP: 71.129.195.163
+IP: 10.40.1.60
+IP: 10.1.3.50
+IP: 66.35.193.84
+Domain: rsc01.net
+Domain: responsys.com
+Domain: akamai.net
+Domain: rsvp0.net
+
+File: 435
+IP: 10.40.1.62
+IP: 71.129.195.163
+IP: 66.35.193.84
+Domain: rsc01.net
+Domain: responsys.com
+Domain: rsvp0.net
+
+File: 436
+IP: 71.129.195.163
+IP: 10.40.1.61
+IP: 66.35.193.84
+Domain: rsc01.net
+Domain: responsys.com
+Domain: rsvp0.net
+
+File: 437
+IP: 71.129.195.163
+Domain: mailshell.com
+Domain: musicmatch.com
+
+File: 438
+IP: 63.146.120.71
+IP: 71.129.195.163
+Domain: llnw.net
+Domain: musicmatch.com
+
+File: 439
+IP: 71.129.195.163
+Domain: mailshell.com
+Domain: monster.com
+Domain: amazon.com
+
+File: 44
+IP: 71.129.195.163
+IP: 216.73.90.102
+IP: 10.21.8.70
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 440
+IP: 71.129.195.163
+IP: 64.143.96.175
+IP: 10.17.75.242
+Domain: handango.com
+Domain: eprize.net
+
+File: 441
+IP: 71.129.195.163
+Domain: mailshell.com
+Domain: mp3.com
+Domain: mp3.co
+
+File: 442
+IP: 71.129.195.163
+IP: 8.19.36.67
+Domain: scifi.com
+Domain: usanetworks.com
+Domain: doubleclick.net
+Domain: sparklist.com
+
+File: 443
+IP: 71.129.195.163
+Domain: mailshell.com
+Domain: mp3.com
+Domain: mp3.co
+
+File: 444
+IP: 71.129.195.163
+Domain: mailshell.com
+
+File: 445
+IP: 71.129.195.163
+Domain: mailshell.com
+
+File: 446
+IP: 71.129.195.163
+Domain: mailshell.com
+
+File: 447
+IP: 71.129.195.163
+Domain: vitacost.com
+Domain: mailshell.com
+
+File: 448
+IP: 71.129.195.163
+Domain: vitacost.com
+Domain: mailshell.com
+
+File: 449
+IP: 71.129.195.163
+Domain: vitacost.com
+Domain: mailshell.com
+
+File: 45
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 450
+IP: 71.129.195.163
+Domain: mailshell.com
+
+File: 451
+IP: 71.129.195.163
+IP: 208.233.209.202
+Domain: dvdempire.com
+
+File: 452
+IP: 71.129.195.163
+IP: 204.71.191.34
+Domain: netwarefiles.com
+Domain: bcentral.com
+
+File: 453
+IP: 71.129.195.163
+IP: 204.71.191.177
+Domain: bcentral.com
+
+File: 454
+IP: 71.129.195.163
+IP: 216.26.161.221
+Domain: wandrian.com
+Domain: railpass.com
+
+File: 455
+IP: 71.129.195.163
+IP: 129.250.156.241
+IP: 10.3.3.63
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+Domain: hearstmags.com
+Domain: victoriamag.com
+
+File: 456
+IP: 71.129.195.163
+IP: 129.250.156.241
+IP: 10.3.3.61
+Domain: divinems.com
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+Domain: hearstmags.com
+
+File: 457
+IP: 71.129.195.163
+IP: 10.3.3.62
+IP: 129.250.156.242
+Domain: townandcountrymag.com
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+Domain: hearstmags.com
+
+File: 458
+IP: 66.218.66.80
+IP: 66.218.67.189
+IP: 66.218.67.252
+IP: 71.129.195.163
+IP: 66.218.66.67
+IP: 66.218.66.218
+IP: 207.172.149.72
+IP: 66.218.66.107
+IP: 66.218.66.217
+IP: 66.218.67.200
+Domain: yahoo.com
+Domain: fleetwoodmac.net
+
+File: 459
+IP: 71.129.195.163
+IP: 207.106.239.82
+Domain: aweber.com
+
+File: 46
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: dummies.com
+Domain: hungryminds.com
+Domain: wiley.com
+
+File: 460
+IP: 71.129.195.163
+IP: 204.71.191.9
+Domain: bcentral.com
+Domain: makeupartistschoice.com
+
+File: 461
+IP: 71.129.195.163
+IP: 128.121.247.86
+Domain: freewareweb.com
+
+File: 462
+IP: 71.129.195.163
+IP: 216.170.227.180
+Domain: efulfillmentservice.com
+Domain: netresponders.com
+Domain: wilsonweb.com
+Domain: doctorebiz.com
+Domain: surveymonkey.com
+Domain: wilsonweb.info
+
+File: 463
+IP: 71.129.195.163
+IP: 216.170.227.180
+Domain: efulfillmentservice.com
+Domain: netresponders.com
+Domain: surveymonkey.com
+Domain: wilsonweb.com
+Domain: wilsonweb.info
+
+File: 464
+IP: 71.129.195.163
+IP: 209.73.219.9
+IP: 209.73.219.76
+Domain: spacejobs.com
+Domain: starrynight.com
+Domain: space.com
+
+File: 465
+IP: 71.129.195.163
+IP: 202.31.147.54
+Domain: computerandsoftwarefactoryoutlet.com
+
+File: 466
+IP: 71.129.195.163
+IP: 209.11.133.254
+Domain: m0.net
+
+File: 467
+IP: 71.129.195.163
+IP: 65.168.32.57
+Domain: maximonline.com
+Domain: doubleclick.net
+Domain: buy.com
+
+File: 468
+IP: 71.129.195.163
+IP: 216.198.200.2
+Domain: biography.com
+Domain: chtah.com
+Domain: aande.com
+Domain: aetv.com
+
+File: 469
+IP: 71.129.195.163
+IP: 209.31.31.89
+Domain: investorplace.com
+
+File: 47
+IP: 71.129.195.163
+IP: 216.73.90.96
+IP: 10.21.8.10
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 470
+IP: 71.129.195.163
+IP: 209.31.31.89
+Domain: investorplace.com
+
+File: 471
+IP: 71.129.195.163
+IP: 204.71.191.16
+Domain: bcentral.com
+Domain: koivet.com
+
+File: 472
+IP: 209.251.208.6
+IP: 71.129.195.163
+IP: 209.251.208.18
+IP: 64.236.245.243
+Domain: pathfinder.com
+Domain: popsci.com
+
+File: 473
+IP: 71.129.195.163
+IP: 10.0.7.238
+Domain: irs.gov
+
+File: 474
+IP: 71.129.195.163
+IP: 66.35.240.33
+IP: 10.35.240.40
+Domain: sfgate.com
+Domain: narcmovie.com
+Domain: goethe.de
+Domain: redvicmoviehouse.com
+Domain: go.com
+Domain: derridathemovie.com
+Domain: justmarriedmovie.com
+Domain: yerbabuenaarts.org
+
+File: 475
+IP: 71.129.195.163
+IP: 66.35.240.33
+IP: 10.35.240.40
+Domain: sfgate.com
+
+File: 476
+IP: 71.129.195.163
+IP: 66.35.240.33
+IP: 10.35.240.40
+Domain: sfgate.com
+
+File: 477
+IP: 71.129.195.163
+IP: 216.73.90.71
+IP: 10.21.7.140
+Domain: chadwicks.com
+
+File: 478
+IP: 71.129.195.163
+IP: 66.35.240.33
+IP: 10.35.240.40
+Domain: sfgate.com
+Domain: solotrek.com
+Domain: castleresorts.com
+
+File: 479
+IP: 71.129.195.163
+IP: 66.35.240.33
+IP: 10.35.240.40
+Domain: sfgate.com
+Domain: solotrek.com
+Domain: castleresorts.com
+
+File: 48
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: dummies.com
+Domain: hungryminds.com
+Domain: wiley.com
+
+File: 480
+IP: 71.129.195.163
+IP: 66.35.240.33
+IP: 10.35.240.40
+Domain: sfgate.com
+Domain: clearecstasy.com
+Domain: mulletsgalore.com
+Domain: somafm.com
+Domain: com.com
+Domain: kazaa.com
+Domain: shoutcast.com
+Domain: nccg.org
+Domain: usp.br
+
+File: 481
+IP: 71.129.195.163
+IP: 24.25.179.220
+IP: 204.210.65.67
+IP: 149.68.45.24
+Domain: asktcl.com
+Domain: freepctech.com
+Domain: askTCL.com
+Domain: passwordsafe.com
+Domain: tripod.com
+Domain: geocities.com
+Domain: roboform.com
+Domain: learnwave.com
+
+File: 482
+IP: 71.129.195.163
+IP: 12.23.180.179
+IP: 66.216.97.46
+Domain: artselect.com
+Domain: furniturefind.com
+
+File: 483
+IP: 71.129.195.163
+IP: 66.35.240.33
+IP: 10.35.240.40
+Domain: sfgate.com
+Domain: clearecstasy.com
+Domain: mulletsgalore.com
+Domain: somafm.com
+Domain: com.com
+Domain: nccg.org
+Domain: usp.br
+
+File: 484
+IP: 5.01.04.19
+IP: 71.129.195.163
+IP: 65.92.126.80
+IP: 209.226.175.25
+Domain: wordspy.com
+
+File: 485
+IP: 192.168.1.100
+IP: 71.129.195.163
+IP: 199.173.21.188
+IP: 192.168.1.40
+Domain: ric2.com
+Domain: ric1.com
+Domain: mcssl.com
+
+File: 486
+IP: 192.168.1.100
+IP: 71.129.195.163
+IP: 192.168.1.42
+IP: 199.173.21.190
+Domain: ric2.com
+Domain: nike.com
+Domain: mcssl.com
+Domain: ric1.com
+
+File: 487
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 488
+IP: 71.129.195.163
+IP: 160.111.218.2
+Domain: wilsoncenter.org
+
+File: 489
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: spamFLAMES.com
+Domain: 4OfficeAutomation.com
+Domain: ProfitSpider.com
+Domain: EmailUnlimited.info
+Domain: mediaplex.com
+Domain: peteMOSS.com
+Domain: adventive.com
+Domain: ottawa.on.ca
+Domain: verticalresponse.com
+Domain: spamNEWS.com
+
+File: 49
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 490
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: searchenginesinfo.com
+Domain: terralycos.com
+Domain: HighRankings.com
+Domain: mediaplex.com
+
+File: 491
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: grantasticdesigns.com
+
+File: 492
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+
+File: 493
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: netReenee.net
+Domain: iafma.net
+Domain: hopesmom.com
+Domain: engrish.com
+Domain: taxmama.com
+Domain: taxanxiety.com
+Domain: amazon.com
+Domain: serenata.nu
+Domain: ihla.com
+Domain: campaignsthatwork.com
+Domain: serena1.com
+Domain: com.com
+Domain: adventive.com
+Domain: chartertn.net
+Domain: washingtonpost.com
+Domain: reenee.net
+Domain: promoteyourself.com
+Domain: webwizards.net
+
+File: 494
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: christiansciencemonitor.com
+
+File: 495
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: w3.org
+Domain: pair.com
+
+File: 496
+IP: 71.129.195.163
+IP: 206.16.0.244
+IP: 206.16.1.162
+Domain: com.com
+
+File: 497
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: com.com
+Domain: uwasa.fi
+Domain: trafford.com
+Domain: adventive.com
+Domain: vub.ac.be
+Domain: writingworkbook.com
+
+File: 498
+IP: 165.112.130.6
+IP: 71.129.195.163
+IP: 128.231.90.111
+IP: 165.112.130.34
+IP: 165.112.130.32
+IP: 127.0.0.1
+Domain: nih.gov
+
+File: 499
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: robfrankel.com
+Domain: lssu.edu
+Domain: twistimage.com
+Domain: Frankelbiz.com
+Domain: johnamccabe.com
+Domain: adventive.com
+Domain: FrankelTips.com
+Domain: JohnAMcCabe.com
+
+File: 5
+IP: 71.129.195.163
+IP: 66.216.76.161
+Domain: ed.gov
+Domain: techtv.com
+Domain: consumer.gov
+Domain: salon.com
+Domain: wired.com
+Domain: ifccfbi.gov
+Domain: 1shoppingcart.com
+Domain: cyberwavemedia.com
+Domain: auctionbytes.com
+Domain: scambusters.org
+
+File: 50
+IP: 71.129.195.163
+IP: 10.21.8.140
+IP: 216.73.90.112
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 500
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: crainsny.com
+Domain: domaines.info
+Domain: internetnews.com
+
+File: 501
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: TheHappyGuy.com
+Domain: yudkin.com
+Domain: newsguy.com
+
+File: 502
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: w3.org
+Domain: digitalcraft.com.au
+Domain: pair.com
+Domain: audettemedia.com
+
+File: 503
+IP: 10.20.40.142
+IP: 71.129.195.163
+IP: 63.251.135.75
+Domain: roving.com
+Domain: rs6.net
+Domain: constantcontact.com
+Domain: geniusbabies.com
+Domain: GeniusBabies.com
+
+File: 504
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: prominentplacement.com
+Domain: netprofitnow.com
+Domain: audettemedia.com
+Domain: ifulfill.com
+Domain: searchenginesinfo.com
+Domain: mediaplex.com
+Domain: adventive.com
+Domain: framtak.com
+Domain: HighRankings.com
+Domain: SeoPros.org
+Domain: terralycos.com
+Domain: reddoor.biz
+
+File: 505
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: spamFLAMES.com
+Domain: 4OfficeAutomation.com
+Domain: ProfitSpider.com
+Domain: audettemedia.com
+Domain: EmailUnlimited.info
+Domain: mediaplex.com
+Domain: peteMOSS.com
+Domain: netpaths.net
+Domain: adventive.com
+Domain: ottawa.on.ca
+Domain: verticalresponse.com
+Domain: infoproductcreator.com
+Domain: spamNEWS.com
+
+File: 506
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: Nobscot.com
+Domain: audettemedia.com
+Domain: christiansciencemonitor.com
+
+File: 507
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: rockinghamgroup.com
+Domain: anybrowser.com
+Domain: comstock.com
+Domain: netmechanic.com
+Domain: snurl.com
+Domain: net500.com
+Domain: AssociatePrograms.com
+Domain: gfxprinting.com
+Domain: ietf.org
+Domain: picturequest.com
+Domain: wordsinarow.com
+Domain: gfxinc.com
+Domain: dgmservices.com
+Domain: corbisimages.com
+Domain: grocerybiz.info
+Domain: adventive.com
+Domain: CaseHandyman.com
+Domain: gettyimages.com
+Domain: audettemedia.com
+
+File: 508
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: RobFrankel.com
+Domain: audettemedia.com
+Domain: grantasticdesigns.com
+
+File: 509
+IP: 165.112.130.6
+IP: 71.129.195.163
+IP: 128.231.90.113
+IP: 165.112.130.34
+IP: 165.112.130.32
+IP: 127.0.0.1
+Domain: sba.gov
+Domain: nih.gov
+Domain: osd.mil
+Domain: sbirworld.com
+Domain: zyn.com
+
+File: 51
+IP: 71.129.195.163
+IP: 64.85.80.216
+IP: 64.132.70.201
+Domain: wordcentral.com
+
+File: 510
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: audettemedia.com
+Domain: com.com
+Domain: uwasa.fi
+Domain: trafford.com
+Domain: WritingWorkbook.com
+Domain: adventive.com
+Domain: vub.ac.be
+Domain: writingworkbook.com
+Domain: EmailOverload.com
+
+File: 511
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: domaines.info
+Domain: audettemedia.com
+Domain: InternetDesign.com
+Domain: internetnews.com
+Domain: iqmc.com
+Domain: adventive.com
+Domain: crainsny.com
+
+File: 512
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: FrankelTips.com
+Domain: lssu.edu
+Domain: twistimage.com
+Domain: Frankelbiz.com
+Domain: JohnAMcCabe.com
+Domain: adventive.com
+Domain: robfrankel.com
+Domain: audettemedia.com
+
+File: 513
+IP: 71.129.195.163
+IP: 209.235.240.57
+Domain: AnnArborDinnerware.com
+Domain: tgcmagazine.com
+Domain: TGCmagazine.com
+Domain: diabeticnewsletter.com
+
+File: 514
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: PostcardMarketingSecrets.com
+Domain: audettemedia.com
+Domain: design4results.com
+Domain: TheHappyGuy.com
+Domain: SuccessOnPurpose.com
+Domain: newsguy.com
+Domain: JohnAMcCabe.com
+Domain: DKG.net
+Domain: adventive.com
+Domain: yudkin.com
+Domain: boyink.com
+
+File: 515
+IP: 71.129.195.163
+IP: 64.35.154.130
+Domain: adventive.com
+Domain: orangebeetle.com
+Domain: cre8pc.com
+
+File: 516
+IP: 71.129.195.163
+IP: 216.73.90.82
+IP: 10.21.7.200
+Domain: spc.com
+
+File: 517
+IP: 204.178.107.100
+IP: 71.129.195.163
+Domain: arentfox.com
+
+File: 518
+IP: 71.129.195.163
+IP: 193.120.42.68
+IP: 10.0.0.229
+IP: 192.168.0.28
+Domain: nua.com
+Domain: nua.ie
+
+File: 519
+IP: 71.129.195.163
+IP: 207.189.106.53
+IP: 192.168.40.245
+Domain: 4at1.com
+Domain: 4at2.com
+Domain: hollywoodvideo.com
+Domain: clickability.com
+
+File: 52
+IP: 71.129.195.163
+IP: 216.73.90.103
+IP: 10.21.8.70
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 520
+IP: 208.48.77.219
+IP: 71.129.195.163
+IP: 10.10.16.12
+IP: 192.168.1.55
+IP: 216.164.95.34
+IP: 209.228.35.77
+IP: 10.10.16.9
+Domain: sfgate.com
+Domain: haaretzdaily.com
+Domain: findlaw.com
+Domain: musiccdsettlement.com
+Domain: adn.com
+Domain: wired.com
+
+File: 521
+IP: 71.129.195.163
+IP: 62.23.137.120
+Domain: fanandmore.de
+Domain: cybermonitor.com
+Domain: eurosport.com
+
+File: 522
+IP: 71.129.195.163
+IP: 207.238.36.10
+IP: 192.168.100.16
+Domain: heritage.org
+Domain: townhall.com
+
+File: 523
+IP: 71.129.195.163
+IP: 216.91.57.155
+Domain: lepre.com
+Domain: psncentral.com
+
+File: 524
+IP: 71.129.195.163
+IP: 207.189.106.53
+IP: 192.168.40.245
+Domain: 4at1.com
+Domain: 4at2.com
+Domain: hollywoodvideo.com
+Domain: clickability.com
+
+File: 525
+IP: 132.204.2.135
+IP: 132.204.136.56
+IP: 192.168.4.10
+IP: 71.129.195.163
+IP: 192.168.4.15
+IP: 192.168.4.146
+Domain: umontreal.ca
+
+File: 526
+IP: 71.129.195.163
+IP: 192.65.171.163
+Domain: sage.org
+
+File: 527
+IP: 71.129.195.163
+IP: 152.163.225.40
+IP: 172.18.150.229
+Domain: viewz.com
+
+File: 528
+IP: 71.129.195.163
+IP: 66.218.66.70
+IP: 66.218.67.194
+Domain: yahoo.com
+Domain: msn.com
+
+File: 529
+IP: 71.129.195.163
+IP: 10.21.6.140
+IP: 216.73.90.36
+Domain: adobe.com
+
+File: 53
+IP: 216.73.90.93
+IP: 71.129.195.163
+IP: 10.21.8.10
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 530
+IP: 71.129.195.163
+IP: 194.217.242.80
+IP: 193.237.147.9
+
+File: 531
+IP: 71.129.195.163
+IP: 172.16.202.242
+IP: 216.154.224.233
+Domain: autobytel.com
+Domain: akamai.net
+Domain: doubleclick.net
+
+File: 532
+IP: 66.38.189.161
+IP: 71.129.195.163
+Domain: LarryChase.com
+Domain: brainshark.com
+Domain: alexisgutzman.com
+Domain: google.com
+Domain: kazaa.com
+Domain: coachingforms.com
+Domain: adage.com
+Domain: seoposition.com
+Domain: komunik.biz
+Domain: wdfm.com
+Domain: larrychase.com
+Domain: newsoftwareproducts.com
+
+File: 533
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: simonsays.com
+Domain: simonsaysauthors.com
+
+File: 534
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: BookClubReader.com
+Domain: simonsays.com
+Domain: bookclubreader.com
+
+File: 535
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysShop.com
+Domain: simonsays.com
+
+File: 536
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: paxtv.com
+Domain: simonsays.com
+Domain: simonsaysauthors.com
+
+File: 537
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: simonsaysshop.com
+Domain: simonsays.com
+
+File: 538
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysShop.com
+Domain: simonsays.com
+
+File: 539
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysShop.com
+Domain: SimonSays.com
+Domain: simonsays.com
+
+File: 54
+IP: 71.129.195.163
+IP: 10.21.8.200
+IP: 216.73.90.125
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 540
+IP: 71.129.195.163
+IP: 10.21.6.200
+IP: 216.73.90.41
+Domain: adobe.com
+
+File: 541
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: grammy.com
+Domain: simonsays.com
+
+File: 542
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: simonsays.com
+
+File: 543
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysShop.com
+Domain: simonsays.com
+
+File: 544
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysLove.com
+Domain: SimonSaysShop.com
+Domain: simonsays.com
+
+File: 545
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSays.com
+Domain: simonsays.com
+
+File: 546
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSays.com
+Domain: simonsays.com
+
+File: 547
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: jewishlibraries.org
+Domain: smithsonianmag.com
+Domain: simonsays.com
+Domain: calendarlive.com
+
+File: 548
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: simonsays.com
+
+File: 549
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysShop.com
+Domain: SimonSays.com
+Domain: simonsays.com
+
+File: 55
+IP: 71.129.195.163
+IP: 216.73.90.98
+IP: 10.21.8.10
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 550
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysShop.com
+Domain: simonsays.com
+
+File: 551
+IP: 216.73.90.44
+IP: 71.129.195.163
+IP: 10.21.6.200
+Domain: adobe.com
+
+File: 552
+IP: 71.129.195.163
+IP: 192.91.159.13
+IP: 192.91.159.54
+Domain: SimonSaysShop.com
+Domain: SimonSays.com
+Domain: simonsays.com
+
+File: 553
+IP: 66.180.244.28
+IP: 71.129.195.163
+IP: 216.40.247.31
+Domain: topica.com
+Domain: topsitelists.com
+Domain: quotationspage.com
+
+File: 554
+IP: 71.129.195.163
+IP: 66.70.73.200
+Domain: fortunenow.com
+Domain: 1shoppingcart.com
+
+File: 555
+IP: 71.129.195.163
+IP: 216.91.57.175
+Domain: tradestation.com
+Domain: sparklist.com
+Domain: optionsnewsletter.com
+
+File: 556
+IP: 71.129.195.163
+IP: 216.154.238.205
+IP: 127.0.0.1
+Domain: playstation.com
+Domain: comedycentral.com
+Domain: southparkstudios.com
+Domain: doubleclick.net
+
+File: 557
+IP: 71.129.195.163
+IP: 204.117.162.72
+Domain: nfogroup.net
+
+File: 558
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 559
+IP: 71.129.195.163
+IP: 216.154.238.205
+IP: 127.0.0.1
+Domain: jokes.com
+Domain: comedycentral.com
+Domain: doubleclick.net
+
+File: 56
+IP: 71.129.195.163
+IP: 10.21.8.200
+IP: 216.73.90.124
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 560
+IP: 71.129.195.163
+IP: 204.71.191.27
+Domain: bcentral.com
+
+File: 561
+IP: 71.129.195.163
+IP: 64.30.226.36
+Domain: gcsports.com
+Domain: partypoker.com
+Domain: vegasinsider.com
+Domain: betcom.com
+
+File: 562
+IP: 71.129.195.163
+IP: 10.21.6.200
+IP: 216.73.90.45
+Domain: adobe.com
+
+File: 563
+IP: 71.129.195.163
+IP: 129.7.1.20
+IP: 132.151.7.187
+IP: 132.151.1.1
+IP: 127.0.0.1
+Domain: dlib.org
+Domain: anu.edu.au
+Domain: gwdg.de
+Domain: ukoln.ac.uk
+Domain: ascc.net
+
+File: 564
+IP: 71.129.195.163
+IP: 66.216.126.16
+IP: 207.235.5.51
+Domain: iwf.org
+
+File: 565
+IP: 71.129.195.163
+IP: 66.180.244.29
+Domain: dailymegajoke.com
+Domain: coopsjokes.com
+Domain: freebiestuff.com
+Domain: topica.com
+Domain: pacbell.net
+Domain: clickbank.net
+
+File: 566
+IP: 71.129.195.163
+IP: 216.127.94.123
+Domain: planshouse.com
+Domain: oldhousefinder.com
+Domain: oldhouseweb.com
+Domain: oldhouseweb.net
+
+File: 567
+IP: 71.129.195.163
+IP: 66.218.66.89
+IP: 66.218.67.132
+IP: 66.218.66.72
+IP: 66.218.67.192
+IP: 63.225.174.245
+IP: 66.218.66.216
+Domain: yahoo.com
+Domain: herspace.com
+
+File: 568
+IP: 209.251.208.6
+IP: 71.129.195.163
+IP: 12.253.121.131
+IP: 216.3.208.190
+Domain: laketahoehyatt.com
+Domain: skinet.com
+
+File: 569
+IP: 71.129.195.163
+IP: 63.251.90.17
+IP: 63.251.90.77
+IP: 63.251.90.14
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 57
+IP: 71.129.195.163
+IP: 216.73.90.126
+IP: 10.21.8.200
+Domain: sportingnews.com
+
+File: 570
+IP: 71.129.195.163
+IP: 63.251.90.26
+IP: 63.251.90.81
+IP: 63.251.90.14
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 571
+IP: 71.129.195.163
+IP: 63.251.90.17
+IP: 63.251.90.77
+IP: 63.251.90.14
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 572
+IP: 71.129.195.163
+IP: 63.251.90.26
+IP: 63.251.90.81
+IP: 63.251.90.14
+Domain: bfast.com
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 573
+IP: 71.129.195.163
+IP: 216.73.90.23
+IP: 10.21.6.70
+Domain: adobe.com
+
+File: 574
+IP: 71.129.195.163
+IP: 63.251.90.26
+IP: 63.251.90.81
+IP: 63.251.90.14
+Domain: fool.com
+
+File: 575
+IP: 71.129.195.163
+IP: 63.251.90.17
+IP: 63.251.90.77
+IP: 63.251.90.14
+Domain: iplacereports.com
+Domain: fool.com
+
+File: 576
+IP: 71.129.195.163
+IP: 63.251.90.26
+IP: 63.251.90.81
+IP: 63.251.90.14
+Domain: investorplace.com
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 577
+IP: 71.129.195.163
+IP: 63.251.90.17
+IP: 63.251.90.77
+IP: 63.251.90.14
+Domain: investorplace.com
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 578
+IP: 71.129.195.163
+IP: 63.251.90.17
+IP: 63.251.90.77
+IP: 63.251.90.14
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 579
+IP: 71.129.195.163
+IP: 204.62.131.31
+Domain: webmonkey.com
+Domain: hotwired.com
+Domain: wired.com
+Domain: lycos.com
+
+File: 58
+IP: 71.129.195.163
+IP: 10.21.8.200
+IP: 216.73.90.123
+Domain: yahoo.com
+Domain: sportingnews.com
+Domain: tsn.com
+Domain: akamai.net
+
+File: 580
+IP: 71.129.195.163
+IP: 63.251.90.26
+IP: 63.251.90.81
+IP: 63.251.90.14
+Domain: iplacereports.com
+Domain: fool.com
+
+File: 581
+IP: 71.129.195.163
+IP: 63.251.90.17
+IP: 63.251.90.77
+IP: 63.251.90.14
+Domain: lnksrv.com
+Domain: fool.com
+Domain: doubleclick.net
+
+File: 582
+IP: 71.129.195.163
+IP: 63.251.90.17
+IP: 63.251.90.77
+IP: 63.251.90.14
+Domain: fool.com
+Domain: lnksrv.com
+
+File: 583
+IP: 71.129.195.163
+IP: 12.144.129.34
+Domain: tdtrader.com
+Domain: synergytrader.com
+Domain: tribalfusion.com
+Domain: wetrack.it
+Domain: therhodesreport.com
+Domain: decisionpoint.com
+Domain: moneyshowdigest.com
+Domain: stockcharts.com
+
+File: 584
+IP: 216.73.90.88
+IP: 71.129.195.163
+IP: 10.21.7.200
+Domain: adobe.com
+
+File: 585
+IP: 71.129.195.163
+IP: 12.144.129.34
+Domain: stockcharts.com
+
+File: 586
+IP: 71.129.195.163
+IP: 204.62.131.31
+Domain: hotwired.com
+Domain: wired.com
+Domain: lycos.com
+
+File: 587
+IP: 71.129.195.163
+IP: 64.251.92.66
+Domain: marketingtips.com
+
+File: 588
+IP: 71.129.195.163
+IP: 157.238.139.86
+IP: 192.168.5.30
+Domain: sim1.net
+Domain: underbergkessler.com
+
+File: 589
+IP: 71.129.195.163
+IP: 209.87.86.61
+Domain: corporateregisterusa.com
+Domain: rismedia.com
+
+File: 59
+IP: 71.129.195.163
+IP: 204.71.191.182
+Domain: ssdonline.com
+Domain: bcentral.com
+
+File: 590
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 216.70.34.238
+Domain: ncol.com
+Domain: technews.com
+Domain: washingtonpost.com
+
+File: 591
+IP: 71.129.195.163
+IP: 66.180.247.81
+Domain: nationalgeographic.com
+Domain: topica.com
+Domain: doubleclick.net
+
+File: 592
+IP: 71.129.195.163
+IP: 207.82.250.44
+Domain: msn.com
+Domain: msads.net
+Domain: bcentral.com
+
+File: 593
+IP: 71.129.195.163
+IP: 66.179.49.234
+Domain: mlmwoman.com
+Domain: SuccessNet.org
+
+File: 594
+IP: 71.129.195.163
+IP: 64.12.49.184
+Domain: salesforce.com
+Domain: business2.com
+Domain: atwola.com
+
+File: 595
+IP: 71.129.195.163
+IP: 216.15.189.35
+Domain: chtah.co
+Domain: roxio.co
+Domain: chtah.com
+Domain: roxio.com
+
+File: 596
+IP: 71.129.195.163
+IP: 64.12.49.184
+Domain: business2.com
+Domain: coloradovca.org
+Domain: atwola.com
+
+File: 597
+IP: 71.129.195.163
+IP: 64.12.49.184
+Domain: business2.com
+Domain: salesforce.com
+Domain: roombavac.com
+Domain: cnn.com
+Domain: atwola.com
+
+File: 598
+IP: 209.251.208.6
+IP: 71.129.195.163
+IP: 209.251.208.18
+IP: 209.251.208.21
+Domain: fortune.com
+Domain: doubleclick.net
+Domain: fedex.com
+Domain: timeinc.net
+
+File: 599
+IP: 71.129.195.163
+IP: 209.208.130.245
+IP: 209.208.130.191
+Domain: akamai.ne
+Domain: akamai.net
+
+File: 6
+IP: 71.129.195.163
+IP: 66.77.63.104
+Domain: pontiac.com
+Domain: sonypictures.com
+
+File: 60
+IP: 71.129.195.163
+IP: 10.21.6.200
+IP: 216.73.90.41
+Domain: speedera.net
+
+File: 600
+IP: 208.171.20.191
+IP: 71.129.195.163
+IP: 66.78.26.11
+IP: 66.180.244.29
+Domain: thebarrel.com
+Domain: sextoysex.com
+Domain: snurl.com
+Domain: topica.com
+
+File: 601
+IP: 71.129.195.163
+IP: 199.181.134.25
+IP: 10.192.74.126
+Domain: go.com
+Domain: hewlittpackard.com
+Domain: go.co
+Domain: oscar.com
+Domain: macromedia.com
+
+File: 602
+IP: 71.129.195.163
+IP: 199.181.134.25
+IP: 10.192.74.126
+Domain: go.com
+Domain: akamai.net
+Domain: mindarrow.net
+
+File: 603
+IP: 71.129.195.163
+IP: 216.73.90.151
+IP: 10.21.9.140
+Domain: fairfax.com.au
+Domain: smh.com.au
+Domain: f2network.com.au
+Domain: f2.com.au
+
+File: 604
+IP: 216.73.90.57
+IP: 71.129.195.163
+IP: 10.21.7.10
+Domain: trendsetters.com
+Domain: flonetwork.com
+Domain: iconocast.com
+
+File: 605
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 63.147.124.118
+Domain: publicaster.com
+Domain: goolara.net
+Domain: publicaster.co
+Domain: symfonee.com
+Domain: bsf01.com
+Domain: www.bs
+Domain: bsf01.co
+Domain: antiwarcomedytour.com
+
+File: 606
+IP: 209.119.0.19
+IP: 71.129.195.163
+IP: 192.168.100.13
+IP: 209.119.0.109
+IP: 207.140.179.15
+Domain: fdr.com
+
+File: 607
+IP: 71.129.195.163
+IP: 209.11.133.253
+Domain: m0.net
+
+File: 608
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: cisco.com
+Domain: ccbn.com
+
+File: 609
+IP: 71.129.195.163
+IP: 10.21.141.59
+IP: 10.16.42.209
+IP: 193.132.149.203
+Domain: hollywoodreporter.com
+Domain: imdb.com
+Domain: gist.com
+Domain: amazon.com
+
+File: 61
+IP: 71.129.195.163
+IP: 4.2.0.58
+IP: 209.85.187.50
+Domain: stretcher.com
+Domain: budgetmap.com
+Domain: snurl.com
+Domain: themomteam.com
+
+File: 610
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: cisco.com
+Domain: ccbn.com
+
+File: 611
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: cisco.com
+Domain: ccbn.com
+
+File: 612
+IP: 170.224.5.38
+IP: 71.129.195.163
+Domain: cedmagazine.com
+Domain: adc.com
+
+File: 613
+IP: 170.224.5.38
+IP: 71.129.195.163
+Domain: shareholder.com
+Domain: adc.com
+
+File: 614
+IP: 170.224.5.38
+IP: 71.129.195.163
+Domain: adc.com
+
+File: 615
+IP: 170.224.5.38
+IP: 71.129.195.163
+Domain: shareholder.com
+Domain: adc.com
+
+File: 616
+IP: 71.129.195.163
+IP: 143.166.224.173
+Domain: dell.com
+
+File: 617
+IP: 352.5.0.0
+IP: 71.129.195.163
+IP: 64.208.135.30
+
+File: 618
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: ccbn.com
+
+File: 619
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: ccbn.com
+
+File: 62
+IP: 71.129.195.163
+IP: 4.2.0.58
+IP: 209.85.187.50
+Domain: themomteam.com
+Domain: stretcher.com
+Domain: autoaccidentclaims.com
+Domain: chetday.com
+Domain: debtsmart.com
+
+File: 620
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: ccbn.com
+
+File: 621
+IP: 170.224.5.38
+IP: 71.129.195.163
+Domain: shareholder.com
+
+File: 622
+IP: 170.224.5.38
+IP: 71.129.195.163
+Domain: shareholder.com
+Domain: netapp.com
+
+File: 623
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: palm.com
+Domain: ccbn.com
+
+File: 624
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: palm.com
+Domain: ccbn.com
+
+File: 625
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: palm.com
+Domain: ccbn.com
+
+File: 626
+IP: 71.129.195.163
+IP: 65.88.144.9
+IP: 66.218.66.76
+IP: 66.82.112.1
+IP: 66.218.66.217
+IP: 66.218.67.200
+Domain: yahoo.com
+Domain: hiddenmysteries.com
+Domain: yahoogroups.com
+Domain: rense.com
+Domain: davidsuzuki.org
+Domain: immunotex.com
+
+File: 627
+IP: 71.129.195.163
+IP: 216.91.57.131
+Domain: internet.com
+Domain: sparklist.com
+Domain: jupiterevents.com
+Domain: bluestreak.com
+Domain: jars.com
+Domain: earthweb.com
+
+File: 628
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: xilinx.com
+Domain: ccbn.com
+
+File: 629
+IP: 71.129.195.163
+IP: 12.130.26.198
+Domain: xilinx.com
+Domain: ccbn.com
+
+File: 63
+IP: 71.129.195.163
+IP: 207.25.80.40
+Domain: CNNenEspanol.com
+Domain: cnn.com
+Domain: cnn.net
+Domain: cnnenespanol.com
+
+File: 630
+IP: 71.129.195.163
+IP: 161.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: sendoutmail.com
+Domain: quotes2u.com
+
+File: 631
+IP: 71.129.195.163
+IP: 209.119.37.177
+Domain: ebags.com
+Domain: eBags.com
+
+File: 632
+IP: 71.129.195.163
+IP: 198.31.212.8
+Domain: kdlmedia.com
+Domain: babyuniversity.com
+
+File: 633
+IP: 71.129.195.163
+IP: 159.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: numberpower.com
+Domain: sendoutmail.com
+Domain: perldepot.com
+
+File: 634
+IP: 71.129.195.163
+IP: 66.216.97.153
+Domain: mauifilmfestival.com
+Domain: kodak.com
+Domain: indiewire.com
+
+File: 635
+IP: 71.129.195.163
+IP: 206.105.2.69
+Domain: artmarketingworkshops.com
+Domain: absolutearts.com
+Domain: overlike.com
+Domain: wwar.com
+
+File: 636
+IP: 71.129.195.163
+IP: 194.185.98.214
+IP: 213.92.5.19
+Domain: theartnewspaper.com
+
+File: 637
+IP: 3.0.32.200
+IP: 64.62.176.191
+IP: 207.228.225.102
+IP: 203.12.160.59
+IP: 71.129.195.163
+IP: 203.219.45.190
+IP: 127.0.0.1
+Domain: plastic.com
+Domain: GuitarSite.com
+Domain: mp3machine.com
+Domain: hitsquad.com
+Domain: news.com.au
+Domain: pcadvisor.co.uk
+Domain: hitsquadmail.com
+Domain: misweb.com
+
+File: 638
+IP: 71.129.195.163
+IP: 209.58.173.10
+IP: 149.68.45.24
+Domain: netfuture.org
+Domain: praxagora.com
+Domain: natureinstitute.org
+
+File: 639
+IP: 71.129.195.163
+IP: 216.73.90.46
+IP: 10.21.6.200
+Domain: theopenenterprise.com
+Domain: cmp.com
+Domain: techweb.com
+Domain: doubleclick.net
+
+File: 64
+IP: 71.129.195.163
+IP: 4.2.0.58
+IP: 209.85.187.50
+Domain: stretcher.com
+Domain: snurl.com
+Domain: themomteam.com
+
+File: 640
+IP: 71.129.195.163
+IP: 10.21.6.140
+IP: 216.73.90.34
+Domain: itprodownloads.com
+Domain: networkcomputing.com
+Domain: nwc.com
+Domain: submag.com
+Domain: doubleclick.net
+
+File: 641
+IP: 71.129.195.163
+IP: 10.21.7.70
+IP: 216.73.90.63
+Domain: cmp.com
+Domain: techweb.com
+Domain: doubleclick.net
+
+File: 642
+IP: 71.129.195.163
+IP: 216.73.90.84
+IP: 10.21.7.200
+Domain: cmpnet.com
+Domain: techweb.com
+Domain: cmp.com
+Domain: doubleclick.net
+
+File: 643
+IP: 216.73.90.13
+IP: 71.129.195.163
+IP: 10.21.6.10
+Domain: cmpnet.com
+Domain: techweb.com
+Domain: cmp.com
+Domain: doubleclick.net
+
+File: 644
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: jumbo.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: jupiterevents.com
+Domain: internetcasinolist.com
+Domain: earthweb.com
+
+File: 645
+IP: 3.0.32.200
+IP: 64.62.176.191
+IP: 203.12.160.57
+IP: 71.129.195.163
+IP: 203.219.45.190
+IP: 127.0.0.1
+Domain: hitsquadmail.com
+Domain: hitsquad.com
+Domain: SharewareMusicMachine.com
+
+File: 646
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 208.244.233.4
+Domain: starwars.com
+Domain: applyonlinenow.com
+Domain: cnet.com
+
+File: 647
+IP: 71.129.195.163
+IP: 216.91.57.131
+Domain: codeguru.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: compuware.com
+Domain: developer.com
+Domain: internetnews.com
+Domain: jupiterevents.com
+Domain: earthweb.com
+
+File: 648
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+
+File: 649
+IP: 71.129.195.163
+IP: 157.134.125.209
+Domain: phunnypictures.com
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 65
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 650
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 651
+IP: 71.129.195.163
+IP: 165.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 652
+IP: 71.129.195.163
+IP: 158.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 653
+IP: 71.129.195.163
+IP: 156.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 654
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 655
+IP: 71.129.195.163
+IP: 160.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 656
+IP: 71.129.195.163
+IP: 156.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 657
+IP: 71.129.195.163
+IP: 164.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 658
+IP: 71.129.195.163
+IP: 64.125.181.147
+Domain: pxlg.com
+Domain: enrollmentprocessing.com
+
+File: 659
+IP: 71.129.195.163
+IP: 161.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: sendoutmail.com
+Domain: tildemh.com
+Domain: talentgrid.com
+
+File: 66
+IP: 71.129.195.163
+IP: 216.91.57.179
+Domain: surfnetkids.com
+Domain: noodletools.com
+Domain: aip.org
+Domain: nationalgeographic.com
+Domain: discovery.com
+Domain: tupperware.com
+Domain: pdreader.org
+Domain: how2add.com
+Domain: kidsfreesoftware.com
+
+File: 660
+IP: 71.129.195.163
+IP: 154.134.125.209
+Domain: shagmail.com
+Domain: valueclick.com
+Domain: pulsetv.com
+
+File: 661
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 662
+IP: 71.129.195.163
+IP: 209.125.134.187
+
+File: 663
+IP: 71.129.195.163
+IP: 160.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 664
+IP: 71.129.195.163
+IP: 160.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 665
+IP: 71.129.195.163
+IP: 156.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 666
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 667
+IP: 71.129.195.163
+IP: 158.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: riskgrades.com
+Domain: WeissRatings.com
+Domain: sendoutmail.com
+
+File: 668
+IP: 71.129.195.163
+IP: 154.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 669
+IP: 71.129.195.163
+IP: 141.202.248.83
+IP: 141.202.201.21
+Domain: ca.com
+
+File: 67
+IP: 71.129.195.163
+IP: 24.242.151.204
+Domain: opengazdefrance.com
+Domain: smarttennis.com
+Domain: bellsouthopenbyrosen.cl
+Domain: abnamro.nl
+Domain: tenniswarrior.com
+Domain: proximusdiamondgames.be
+Domain: dubaitennischampionships.com
+Domain: scottsdaletennis.com
+Domain: amazon.com
+Domain: open13.org
+Domain: abiertomexicanodetenis.com
+Domain: siebelopen.com
+Domain: pacificlifeopen.com
+Domain: daviscup.org
+Domain: atptennis.com
+Domain: tennisserver.com
+Domain: krogerstjude.com
+
+File: 670
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 671
+IP: 71.129.195.163
+IP: 160.134.125.209
+Domain: shagmail.com
+Domain: fittingpretty.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 672
+IP: 71.129.195.163
+IP: 158.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 673
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 674
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: internet.com
+Domain: useit.com
+Domain: diveintomark.org
+Domain: webword.com
+Domain: sparklist.com
+Domain: zeldman.com
+Domain: kde.org
+Domain: internetnews.com
+Domain: webreference.com
+Domain: NewsFactor.com
+Domain: apple.com
+Domain: clickz.com
+Domain: earthweb.com
+Domain: mozillazine.org
+
+File: 675
+IP: 71.129.195.163
+IP: 154.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 676
+IP: 71.129.195.163
+IP: 151.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 677
+IP: 152.134.125.209
+IP: 71.129.195.163
+Domain: shagmail.com
+Domain: getyourfreebies.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 678
+IP: 71.129.195.163
+IP: 156.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 679
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: bizarrenews.com
+Domain: pulsetv.com
+Domain: laffaday.com
+Domain: sendoutmail.com
+
+File: 68
+IP: 209.95.33.141
+IP: 71.129.195.163
+IP: 10.10.145.237
+Domain: tfaw.com
+
+File: 680
+IP: 71.129.195.163
+IP: 141.202.201.25
+IP: 141.202.248.83
+Domain: ca.com
+
+File: 681
+IP: 71.129.195.163
+IP: 156.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: probass.com
+Domain: pulsetv.com
+
+File: 682
+IP: 71.129.195.163
+IP: 159.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 683
+IP: 71.129.195.163
+IP: 151.134.125.209
+Domain: shagmail.com
+Domain: quotes2u.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 684
+IP: 71.129.195.163
+IP: 159.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 685
+IP: 71.129.195.163
+IP: 151.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 686
+IP: 71.129.195.163
+IP: 158.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 687
+IP: 71.129.195.163
+IP: 216.188.25.210
+IP: 209.132.1.30
+Domain: OtherSingles.com
+
+File: 688
+IP: 71.129.195.163
+IP: 158.134.125.209
+Domain: yahoo.com
+Domain: shagmail.com
+Domain: retrocrush.com
+Domain: sendoutmail.com
+Domain: mantasoft.co.uk
+Domain: playtonium.com
+Domain: pulsetv.com
+Domain: qksrv.net
+Domain: kissonline.com
+
+File: 689
+IP: 71.129.195.163
+IP: 156.134.125.209
+Domain: shagmail.com
+Domain: state.gov
+Domain: caribbeanbrochures.com
+Domain: affiliatefuel.com
+Domain: cnn.com
+Domain: pulsetv.com
+Domain: sendoutmail.com
+
+File: 69
+IP: 71.129.195.163
+IP: 159.134.125.209
+Domain: karmafarm.com
+Domain: shagmail.com
+Domain: villiansupply.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 690
+IP: 71.129.195.163
+IP: 164.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 691
+IP: 71.129.195.163
+IP: 216.91.57.18
+Domain: ispcon.com
+
+File: 692
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+
+File: 693
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: JavaBoutique.com
+Domain: webdeveloper.com
+Domain: clickz.com
+Domain: thelist.com
+Domain: javascriptsource.com
+Domain: earthweb.com
+Domain: internetweek.com
+Domain: javascript.com
+Domain: hardwarecentral.com
+Domain: WebReference.com
+Domain: ScriptSearch.com
+Domain: intranetjournal.com
+Domain: Flashkit.com
+Domain: FlashPlanet.com
+Domain: sparklist.com
+Domain: WebDeveloper.com
+Domain: jupiterevents.com
+Domain: wdvl.com
+Domain: extremeflash.com
+Domain: WebDevelopersJournal.com
+Domain: internetnews.com
+Domain: Gif.com
+Domain: XML101.com
+Domain: domainnotes.com
+Domain: databasejournal.com
+Domain: webreference.com
+Domain: JustSmil.com
+Domain: hiermenuscentral.com
+Domain: esecurityplanet.com
+Domain: StreamingMediaWorld.com
+
+File: 694
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 695
+IP: 71.129.195.163
+IP: 160.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 696
+IP: 71.129.195.163
+IP: 159.134.125.209
+Domain: shagmail.com
+Domain: valueclick.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 697
+IP: 71.129.195.163
+IP: 157.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 698
+IP: 71.129.195.163
+IP: 164.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: thedailytease.com
+Domain: pulsetv.com
+
+File: 699
+IP: 64.35.34.35
+IP: 71.129.195.163
+Domain: 180096hotel.com
+Domain: cheapairlines.com
+Domain: emf3.com
+Domain: emailfactory.com
+
+File: 7
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.163
+Domain: myabout.com
+Domain: about.com
+
+File: 70
+IP: 207.69.231.85
+IP: 71.129.195.163
+IP: 207.69.200.187
+Domain: healthypetcorner.com
+Domain: cybersalt.org
+Domain: kidshealth.org
+Domain: healthypetcorner.co
+Domain: theherbsplace.com
+Domain: wholefoodsmarket.com
+
+File: 700
+IP: 71.129.195.163
+IP: 64.241.105.8
+IP: 63.214.251.14
+Domain: thelastmorsel.com
+Domain: yahoo.com
+Domain: amazon.com
+Domain: amazon.ca
+Domain: worldwiderecipes.com
+
+File: 701
+IP: 216.39.115.70
+IP: 71.129.195.163
+Domain: mocda.com
+Domain: copykat.com
+Domain: mb00.net
+Domain: amazon.com
+
+File: 702
+IP: 71.129.195.163
+IP: 140.239.85.2
+Domain: historydaily.com
+Domain: netatlantic.com
+Domain: mocda.com
+
+File: 703
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: about.com
+
+File: 704
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: jupiterevents.com
+Domain: internet.com
+Domain: ecma.ch
+Domain: sparklist.com
+Domain: webopedia.com
+Domain: clickz.com
+Domain: microsoft.com
+Domain: enterprisestorageforum.com
+Domain: earthweb.com
+
+File: 705
+IP: 71.129.195.163
+IP: 207.217.120.50
+IP: 0.9.4.1
+IP: 66.218.66.71
+IP: 165.121.37.44
+IP: 66.218.67.199
+IP: 66.218.66.217
+Domain: yahoo.com
+Domain: quotelady.com
+Domain: bfast.com
+
+File: 706
+IP: 71.129.195.163
+IP: 66.180.244.29
+Domain: topica.com
+Domain: goClick.com
+
+File: 707
+IP: 71.129.195.163
+IP: 64.211.61.228
+Domain: ypi.com
+Domain: almanac.com
+
+File: 708
+IP: 209.251.208.6
+IP: 71.129.195.163
+IP: 209.251.208.18
+IP: 209.251.208.21
+Domain: aol.com
+
+File: 709
+IP: 71.129.195.163
+IP: 209.125.134.187
+
+File: 71
+IP: 216.73.90.144
+IP: 71.129.195.163
+IP: 10.21.9.70
+Domain: myabout.com
+Domain: about.com
+
+File: 710
+IP: 71.129.195.163
+IP: 209.47.251.21
+IP: 127.0.0.1
+
+File: 711
+IP: 71.129.195.163
+IP: 165.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: thedailyrecipe.com
+Domain: sendoutmail.com
+
+File: 712
+IP: 71.129.195.163
+IP: 24.234.67.232
+
+File: 713
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: internet.com
+Domain: JavaBoutique.com
+Domain: webdeveloper.com
+Domain: internetnews.com
+Domain: javascriptsource.com
+Domain: xmlfiles.com
+Domain: earthweb.com
+Domain: voicexmlplanet.com
+Domain: javascript.com
+Domain: WebReference.com
+Domain: ScriptSearch.com
+Domain: Flashkit.com
+Domain: sparklist.com
+Domain: WebDeveloper.com
+Domain: InternetNews.com
+Domain: jupiterevents.com
+Domain: wdvl.com
+Domain: serverwatch.com
+Domain: WebDevelopersJournal.com
+Domain: DomainNotes.com
+Domain: databasejournal.com
+Domain: webreference.com
+Domain: JustSmil.com
+Domain: StreamingMediaWorld.com
+
+File: 714
+IP: 71.129.195.163
+IP: 165.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: cleanlaffs.com
+Domain: pulsetv.com
+
+File: 715
+IP: 71.129.195.163
+IP: 157.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: laffaday.com
+Domain: sendoutmail.com
+
+File: 716
+IP: 71.129.195.163
+IP: 154.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: laffaday.com
+Domain: sendoutmail.com
+
+File: 717
+IP: 71.129.195.163
+IP: 64.70.32.117
+Domain: matchnet.com
+Domain: americansingles.com
+
+File: 718
+IP: 71.129.195.163
+IP: 216.15.189.35
+Domain: sunstudio.com
+Domain: emplive.com
+Domain: rockhall.com
+Domain: chtah.com
+Domain: dollar.com
+
+File: 719
+IP: 71.129.195.163
+IP: 129.41.69.137
+Domain: dealmac.com
+Domain: dealnews.com
+
+File: 72
+IP: 71.129.195.163
+IP: 208.220.130.7
+IP: 66.205.93.162
+Domain: rresults.com
+Domain: survey.com
+
+File: 720
+IP: 71.129.195.163
+IP: 206.196.80.86
+Domain: mediaplex.com
+Domain: chickensoup.com
+Domain: soupserver.com
+Domain: DailyInbox.com
+Domain: dailyinbox.com
+
+File: 721
+IP: 71.129.195.163
+IP: 10.249.6.150
+IP: 209.31.22.53
+Domain: frys.com
+
+File: 722
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: sparklist.com
+Domain: webopedia.com
+Domain: SparkLIST.com
+Domain: jupiterevents.com
+Domain: earthweb.com
+
+File: 723
+IP: 71.129.195.163
+IP: 216.91.57.131
+Domain: codeguru.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: developer.com
+Domain: VBForums.com
+Domain: earthweb.com
+
+File: 724
+IP: 71.129.195.163
+IP: 161.134.125.209
+Domain: shagmail.com
+Domain: filmquotes.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 725
+IP: 71.129.195.163
+IP: 66.216.107.72
+Domain: ehealthinsurance.com
+Domain: championoffers.com
+Domain: liveperson.net
+Domain: dailydiscounts.com
+
+File: 726
+IP: 71.129.195.163
+IP: 63.74.191.10
+IP: 167.118.101.138
+
+File: 727
+IP: 71.129.195.163
+IP: 158.134.125.209
+Domain: shagmail.com
+Domain: bizarrenews.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 728
+IP: 71.129.195.163
+IP: 154.134.125.209
+Domain: shagmail.com
+Domain: pulsetv.com
+Domain: sendoutmail.com
+Domain: gardenguides.com
+
+File: 729
+IP: 71.129.195.163
+IP: 5.2.0.9
+IP: 66.180.244.25
+IP: 203.160.181.71
+IP: 209.217.36.11
+Domain: topica.com
+
+File: 73
+IP: 71.129.195.163
+IP: 10.21.9.10
+IP: 216.73.90.132
+Domain: myabout.com
+Domain: about.com
+
+File: 730
+IP: 65.196.31.74
+IP: 71.129.195.163
+Domain: marketer.com
+Domain: emarketer.com
+
+File: 731
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: sparklist.com
+Domain: jupitermedia.com
+Domain: internetnews.com
+Domain: informative.com
+Domain: earthweb.com
+
+File: 732
+IP: 71.129.195.163
+IP: 216.105.175.129
+Domain: ugo.com
+
+File: 733
+IP: 71.129.195.163
+IP: 216.91.57.131
+Domain: jupiterevents.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 734
+IP: 71.129.195.163
+IP: 209.125.134.187
+
+File: 735
+IP: 71.129.195.163
+IP: 64.39.29.237
+Domain: sodamail.com
+
+File: 736
+IP: 71.129.195.163
+IP: 63.164.32.15
+Domain: cardplayer.com
+
+File: 737
+IP: 71.129.195.163
+IP: 207.235.5.248
+Domain: neptunecigar.com
+Domain: qksrv.net
+Domain: jokepost.com
+Domain: hotjobs.com
+
+File: 738
+IP: 66.207.199.147
+IP: 71.129.195.163
+Domain: FWtour.com
+Domain: myfw.com
+Domain: fwtour.com
+Domain: myFW.com
+
+File: 739
+IP: 71.129.195.163
+IP: 64.94.140.13
+Domain: recipenotes.com
+Domain: allrecipes.com
+
+File: 74
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.162
+Domain: myabout.com
+Domain: about.com
+
+File: 740
+IP: 71.129.195.163
+IP: 66.180.244.24
+IP: 207.217.120.74
+IP: 68.164.69.253
+Domain: dailyprobe.com
+Domain: topica.com
+
+File: 741
+IP: 216.242.235.109
+IP: 71.129.195.163
+Domain: amazingtoystore.com
+Domain: yahoo.com
+Domain: onestepahead.com
+Domain: storkavenue.com
+Domain: yimg.com
+Domain: babyzone.com
+
+File: 742
+IP: 165.247.206.22
+IP: 71.129.195.163
+IP: 207.217.120.123
+IP: 66.180.244.29
+Domain: topica.com
+Domain: topfive.com
+
+File: 743
+IP: 207.217.120.62
+IP: 71.129.195.163
+IP: 66.180.244.23
+IP: 165.247.206.22
+Domain: topica.com
+Domain: topfive.com
+
+File: 744
+IP: 71.129.195.163
+IP: 165.247.216.130
+IP: 207.217.120.74
+IP: 66.180.244.29
+Domain: topica.com
+Domain: ruminate.com
+Domain: topfive.com
+
+File: 745
+IP: 71.129.195.163
+IP: 161.2.69.130
+IP: 163.166.43.46
+IP: 161.2.239.150
+Domain: ba.com
+Domain: britishairways.com
+
+File: 746
+IP: 71.129.195.163
+IP: 209.8.58.27
+IP: 003.01.17.4
+Domain: vacations.net
+Domain: nationalparks.com
+Domain: hotels.net
+Domain: skyauction.com
+Domain: sunfinder.com
+
+File: 747
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 748
+IP: 71.129.195.163
+IP: 206.40.48.155
+IP: 207.44.162.17
+IP: 202.153.33.51
+Domain: fctrk.com
+Domain: funtoosh.com
+Domain: funtooshtimes.com
+
+File: 749
+IP: 71.129.195.163
+IP: 66.180.244.25
+Domain: topica.com
+Domain: fctrk.com
+Domain: funtoosh.com
+
+File: 75
+IP: 71.129.195.163
+IP: 192.168.111.3
+IP: 216.168.61.110
+IP: 216.168.37.168
+Domain: tidbits.com
+Domain: serenescreen.com
+Domain: paulgraham.com
+Domain: connectix.com
+Domain: creo.com
+Domain: ceiva.com
+Domain: easyDNS.com
+Domain: dpreview.com
+Domain: slimdevices.com
+Domain: nature.com
+Domain: macwireless.com
+Domain: devdepot.com
+Domain: eff.org
+Domain: nytimes.com
+Domain: com.com
+Domain: smalldog.com
+Domain: amazon.com
+Domain: infoworld.com
+Domain: handspring.com
+Domain: apple.com
+Domain: habeas.com
+Domain: eudora.co.nz
+Domain: dealmac.com
+Domain: google.com
+Domain: danger.com
+Domain: copyright.gov
+
+File: 750
+IP: 71.129.195.163
+IP: 209.125.134.187
+
+File: 751
+IP: 71.129.195.163
+IP: 165.134.125.209
+Domain: shagmail.com
+Domain: asthedialturns.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 752
+IP: 71.129.195.163
+IP: 194.129.54.66
+Domain: biochemist.org
+Domain: biochemistry.org
+Domain: clinsci.org
+Domain: biochemj.org
+Domain: portlandpress.com
+Domain: babonline.org
+
+File: 753
+IP: 71.129.195.163
+IP: 165.134.125.209
+Domain: shagmail.com
+Domain: asthedialturns.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 754
+IP: 71.129.195.163
+IP: 66.28.139.45
+IP: 66.28.139.16
+Domain: webpronews.com
+Domain: ientry.com
+Domain: iEntry.com
+Domain: activepro.com
+Domain: ientrymail.com
+Domain: ientry.net
+Domain: webprowire.com
+
+File: 755
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: sparklist.com
+Domain: jupiterevents.com
+Domain: allnetdevices.com
+Domain: allNetDevices.com
+Domain: earthweb.com
+
+File: 756
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: jupiterevents.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 757
+IP: 66.28.139.10
+IP: 71.129.195.163
+IP: 66.28.139.14
+Domain: ientrymail.com
+Domain: iEntry.com
+Domain: ientry.com
+Domain: ientry.net
+
+File: 758
+IP: 71.129.195.163
+IP: 209.11.137.108
+Domain: akamaitech.net
+Domain: m0.net
+
+File: 759
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: pocketpcwire.com
+Domain: activeup.com
+Domain: sparklist.com
+Domain: vbwire.com
+Domain: aspwire.com
+Domain: aspcode.com
+Domain: 15seconds.com
+Domain: aspguild.org
+Domain: sqlwire.com
+Domain: webdevcon.com
+Domain: flicks.com
+Domain: earthweb.com
+
+File: 76
+IP: 71.129.195.163
+IP: 208.50.150.234
+Domain: tradingacademy.com
+Domain: uptilt.com
+
+File: 760
+IP: 71.129.195.163
+IP: 66.28.139.44
+IP: 66.28.139.16
+Domain: iEntry.com
+Domain: ientry.com
+Domain: ientry.net
+Domain: ientrymail.com
+
+File: 761
+IP: 71.129.195.163
+IP: 10.17.75.15
+IP: 64.143.96.175
+Domain: custhelp.com
+Domain: handango.com
+
+File: 762
+IP: 71.129.195.163
+IP: 129.219.13.98
+Domain: paknews.com
+Domain: baycareers.com
+Domain: paknews.org
+
+File: 763
+IP: 2.5.2.12
+IP: 71.129.195.163
+IP: 129.107.56.112
+IP: 129.107.56.103
+Domain: uta.edu
+
+File: 764
+IP: 137.71.9.12
+IP: 137.71.6.12
+IP: 71.129.195.163
+IP: 204.166.116.73
+IP: 137.71.25.114
+IP: 204.166.116.201
+Domain: analog.com
+
+File: 765
+IP: 192.88.97.5
+IP: 71.129.195.163
+IP: 134.60.166.1
+IP: 127.0.0.1
+
+File: 766
+IP: 209.119.0.19
+IP: 71.129.195.163
+IP: 65.59.99.80
+IP: 209.119.0.109
+IP: 207.217.120.120
+Domain: qltinc.com
+Domain: bausch.com
+Domain: contacts.com
+Domain: optistock.com
+Domain: cnet.com
+
+File: 767
+IP: 80.192.9.42
+IP: 71.129.195.163
+IP: 192.168.14.10
+IP: 164.76.102.107
+Domain: worldwidewords.org
+
+File: 768
+IP: 71.129.195.163
+IP: 209.15.177.145
+Domain: HungryMonster.com
+Domain: advertising.com
+Domain: hungrymonster.com
+
+File: 769
+IP: 71.129.195.163
+IP: 132.174.29.209
+IP: 132.174.29.62
+Domain: oclc.org
+Domain: oclcpica.org
+Domain: netlibrary.com
+
+File: 77
+IP: 64.81.46.144
+IP: 71.129.195.163
+IP: 64.35.154.130
+IP: 4.2.0.58
+Domain: innerbody.com
+Domain: tricksandtrinkets.com
+Domain: www.net
+Domain: worldcityphotos.org
+Domain: whalesong.net
+Domain: commoncold.org
+Domain: nist.gov
+Domain: tigerhomes.org
+Domain: time.com
+Domain: webreference.com
+Domain: robostrike.com
+Domain: vgmusic.com
+Domain: go.com
+Domain: new7wonders.com
+
+File: 770
+IP: 10.21.7.10
+IP: 71.129.195.163
+IP: 216.73.90.56
+Domain: quicken.com
+
+File: 771
+IP: 71.129.195.163
+IP: 10.21.7.70
+IP: 216.73.90.63
+Domain: quicken.com
+
+File: 772
+IP: 71.129.195.163
+IP: 216.73.90.25
+IP: 10.21.6.70
+Domain: speedera.net
+Domain: turbotax.com
+
+File: 773
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: pocketpcwire.com
+Domain: sparklist.com
+Domain: vcce.com
+Domain: vbwire.com
+Domain: aspwire.com
+Domain: vbce.com
+Domain: sqlwire.com
+Domain: earthweb.com
+
+File: 774
+IP: 71.129.195.163
+IP: 8.12.11.200
+IP: 74.211.217.34
+IP: 69.20.16.145
+Domain: weaknees.co
+Domain: weaknees.com
+
+File: 775
+IP: 71.129.195.163
+IP: 131.123.72.253
+IP: 209.81.206.13
+Domain: higheredjobs.com
+
+File: 776
+IP: 71.129.195.163
+IP: 64.56.194.94
+Domain: travelzoo.com
+
+File: 777
+IP: 71.129.195.163
+IP: 65.206.82.34
+IP: 66.180.244.26
+Domain: topica.com
+Domain: aahperd.org
+Domain: hotbar.com
+
+File: 778
+IP: 71.129.195.163
+IP: 152.163.225.40
+IP: 172.18.150.226
+Domain: amazingkreskin.com
+Domain: foxnews.com
+Domain: csicop.org
+Domain: nypost.com
+Domain: independentpublisher.com
+Domain: povonline.com
+Domain: wired.com
+
+File: 779
+IP: 71.129.195.163
+IP: 216.200.81.22
+IP: 216.200.81.5
+Domain: benton.org
+Domain: com.com
+Domain: bbc.co.uk
+Domain: wired.com
+
+File: 78
+IP: 71.129.195.163
+IP: 10.200.5.46
+IP: 64.28.75.181
+Domain: ed10.net
+Domain: trip.com
+Domain: ed4.net
+Domain: doubleclick.net
+
+File: 780
+IP: 71.129.195.163
+IP: 198.30.19.140
+Domain: indnet.org
+
+File: 781
+IP: 71.129.195.163
+IP: 216.152.230.114
+Domain: adteractive.com
+Domain: freethingz.net
+Domain: membershipme.com
+
+File: 782
+IP: 63.219.66.98
+IP: 71.129.195.163
+IP: 63.219.66.114
+IP: 209.119.0.160
+Domain: singlevolunteers.org
+Domain: lsoft.com
+
+File: 783
+IP: 71.129.195.163
+IP: 216.91.57.155
+Domain: fair.org
+Domain: merchantamerica.com
+
+File: 784
+IP: 71.129.195.163
+IP: 195.218.115.244
+Domain: heritagecouncil.ie
+Domain: nuigalway.ie
+Domain: ida.ie
+Domain: kodak.com
+Domain: irishemigrant.com
+Domain: xiam.com
+Domain: ulst.ac.uk
+Domain: entemp.ie
+Domain: emigrant.ie
+Domain: www.re
+
+File: 785
+IP: 71.129.195.163
+IP: 152.163.225.40
+IP: 166.90.30.182
+IP: 207.69.200.157
+Domain: fantasticfoods.com
+Domain: vegworld.ru
+Domain: vrg.org
+Domain: vegfest2003.org
+Domain: consciouslivingexpo.com
+Domain: meatout.org
+Domain: LiberationNow.com
+Domain: animalplace.org
+Domain: globalyouthvillage.org
+Domain: westsoy.com
+Domain: vegfair.org
+
+File: 786
+IP: 71.129.195.163
+IP: 128.118.141.59
+Domain: yahoo.com
+
+File: 787
+IP: 209.119.0.19
+IP: 71.129.195.163
+IP: 216.211.137.5
+IP: 209.119.0.109
+IP: 12.227.16.114
+Domain: cookswares.com
+
+File: 788
+IP: 199.175.179.103
+IP: 71.129.195.163
+Domain: bloomberg.com
+Domain: marketwatch.com
+Domain: stockgroup.com
+Domain: investormarketplace.com
+Domain: cnn.com
+Domain: smallcapcenter.com
+Domain: ft.com
+
+File: 789
+IP: 71.129.195.163
+IP: 159.134.125.209
+Domain: shagmail.com
+Domain: miniclip.com
+Domain: bubblebathgirl.com
+Domain: superdudes.net
+Domain: pulsetv.com
+Domain: sendoutmail.com
+Domain: weezer.com
+
+File: 79
+IP: 71.129.195.163
+IP: 144.198.225.206
+IP: 10.100.2.206
+Domain: tvguide.com
+
+File: 790
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: getyourfreebies.com
+Domain: valueclick.com
+Domain: websponsors.com
+Domain: pulsetv.com
+Domain: sendoutmail.com
+
+File: 791
+IP: 71.129.195.163
+IP: 198.30.19.140
+Domain: murthy.com
+Domain: indnet.org
+
+File: 792
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: internet.com
+Domain: sparklist.com
+Domain: searchenginestrategies.com
+Domain: etail2003.com
+Domain: earthweb.com
+
+File: 793
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: getyourfreebies.com
+Domain: debtsaviorsonline.com
+Domain: websponsors.com
+Domain: pulsetv.com
+Domain: sendoutmail.com
+
+File: 794
+IP: 71.129.195.163
+IP: 164.134.125.209
+Domain: shagmail.com
+Domain: sendoutmail.com
+Domain: pulsetv.com
+
+File: 795
+IP: 71.129.195.163
+IP: 134.68.220.184
+Domain: apple.com
+Domain: makingpages.org
+Domain: creativepro.com
+
+File: 796
+IP: 160.36.178.161
+IP: 71.129.195.163
+IP: 160.36.178.58
+IP: 160.36.178.33
+Domain: cornell.edu
+
+File: 797
+IP: 71.129.195.163
+IP: 205.206.231.19
+IP: 205.206.231.26
+Domain: stanley.art.pl
+Domain: iq.pl
+Domain: securityfocus.com
+Domain: spidynamics.com
+Domain: sourceforge.net
+Domain: misti.com
+Domain: free.fr
+
+File: 798
+IP: 130.160.4.249
+IP: 192.9.100.40
+IP: 207.183.45.98
+IP: 71.129.195.163
+IP: 62.91.2.21
+IP: 192.168.0.6
+IP: 192.168.0.11
+IP: 127.0.0.1
+IP: 62.153.164.66
+
+File: 799
+IP: 71.129.195.163
+IP: 164.76.102.59
+IP: 164.76.102.107
+Domain: linguistlist.org
+
+File: 8
+IP: 71.129.195.163
+IP: 209.11.52.206
+Domain: zdnet.co.uk
+Domain: venturereportermag.com
+Domain: frankensite.com
+Domain: wsj.com
+Domain: irconnect.com
+Domain: washingtonpost.com
+Domain: VentureReporter.net
+Domain: dmnews.com
+Domain: venturereporter.net
+
+File: 80
+IP: 71.129.195.163
+IP: 207.241.145.4
+Domain: about.com
+
+File: 800
+IP: 71.129.195.163
+IP: 207.46.248.69
+IP: 10.40.1.65
+Domain: microsoft.com
+Domain: nextgenss.com
+
+File: 801
+IP: 71.129.195.163
+IP: 216.91.57.170
+Domain: washington.org
+Domain: thechileman.com
+Domain: tastedc.com
+
+File: 802
+IP: 209.119.0.19
+IP: 71.129.195.163
+IP: 209.119.0.109
+IP: 216.4.225.3
+Domain: publicwelfare.org
+Domain: ednet.ns.ca
+Domain: ncat.edu
+Domain: bmtfoundation.com
+Domain: counseling.org
+Domain: ambassadorstechnology.com
+Domain: virginia.edu
+Domain: sedl.org
+
+File: 803
+IP: 71.129.195.163
+IP: 12.231.34.132
+Domain: nytimes.com
+Domain: portigal.com
+Domain: latimes.com
+Domain: amazon.com
+Domain: go.com
+Domain: websponsors.com
+Domain: recipezaar.com
+
+File: 804
+IP: 71.129.195.163
+IP: 204.73.46.11
+Domain: ComputerUser.com
+Domain: computeruser.com
+
+File: 805
+IP: 71.129.195.163
+IP: 64.241.105.8
+IP: 63.214.251.14
+Domain: dealdetector.com
+Domain: mcssl.com
+Domain: budgetmap.com
+Domain: eboards4all.com
+Domain: petwarmers.com
+
+File: 806
+IP: 71.129.195.163
+IP: 63.147.13.227
+Domain: moviegallery.com
+
+File: 807
+IP: 63.236.214.22
+IP: 71.129.195.163
+IP: 66.166.231.12
+IP: 3.0.1.32
+IP: 63.151.113.2
+Domain: ctj.org
+
+File: 808
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: jupiterevents.com
+Domain: hardwarecentral.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 809
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: cliffsnotes.com
+Domain: hungryminds.com
+
+File: 81
+IP: 71.129.195.163
+IP: 10.1.1.72
+IP: 65.114.4.12
+Domain: dilbert.com
+Domain: comics.com
+Domain: cafeshops.com
+Domain: amazon.com
+
+File: 810
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: cliffsnotes.com
+Domain: hungryminds.com
+
+File: 811
+IP: 71.129.195.163
+IP: 207.188.221.246
+
+File: 812
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: cliffsnotes.com
+Domain: hungryminds.com
+Domain: dummies.com
+
+File: 813
+IP: 216.73.90.144
+IP: 71.129.195.163
+IP: 10.21.9.70
+Domain: myabout.com
+Domain: about.com
+
+File: 814
+IP: 71.129.195.163
+IP: 216.91.57.131
+Domain: jupiterevents.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 815
+IP: 207.136.214.68
+IP: 71.129.195.163
+IP: 207.136.214.66
+Domain: hiltongardeninn.com
+Domain: garden.org
+Domain: nationalgardening.com
+Domain: yahoo.com
+
+File: 816
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: cliffsnotes.com
+Domain: hungryminds.com
+Domain: wiley.com
+
+File: 817
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: InternetStockReport.com
+Domain: sparklist.com
+Domain: isdex.com
+Domain: jupiterevents.com
+Domain: internetstockreport.com
+Domain: investorplace.com
+Domain: earthweb.com
+
+File: 818
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: cliffsnotes.com
+Domain: hungryminds.com
+Domain: wiley.com
+
+File: 819
+IP: 168.215.86.59
+IP: 71.129.195.163
+Domain: cliffsnotes.com
+Domain: hungryminds.com
+Domain: dummies.com
+Domain: wiley.com
+
+File: 82
+IP: 71.129.195.163
+IP: 140.239.165.187
+Domain: HyperTracker.com
+Domain: bridalfashionmall.com
+Domain: talkaboutweddings.com
+Domain: wedfind.com
+Domain: weddingplanningnews.com
+Domain: netatlantic.com
+Domain: hypertracker.com
+Domain: usabrideweddings.com
+Domain: usabride.com
+
+File: 820
+IP: 71.129.195.163
+IP: 207.13.75.1
+Domain: theburningbush.org
+Domain: InJesus.com
+Domain: injesus.com
+
+File: 821
+IP: 71.129.195.163
+IP: 216.52.244.232
+IP: 216.52.244.183
+Domain: bizrate.com
+
+File: 822
+IP: 63.74.90.28
+IP: 71.129.195.163
+IP: 192.168.1.4
+IP: 127.0.0.1
+IP: 170.140.205.57
+Domain: molvis.org
+
+File: 823
+IP: 71.129.195.163
+IP: 209.87.114.40
+Domain: mypoints.com
+
+File: 824
+IP: 71.129.195.163
+IP: 209.87.114.40
+Domain: w3.org
+Domain: akamaitech.net
+Domain: mypoints.com
+
+File: 825
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: linuxcentral.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 826
+IP: 71.129.195.163
+IP: 12.196.86.148
+IP: 127.0.0.1
+Domain: deepdiscount.com
+Domain: iripromotions.com
+
+File: 827
+IP: 71.129.195.163
+IP: 212.20.229.219
+IP: 194.205.110.133
+Domain: messagelabs.com
+
+File: 828
+IP: 71.129.195.163
+IP: 212.20.229.219
+
+File: 829
+IP: 71.129.195.163
+IP: 212.20.229.219
+
+File: 83
+IP: 71.129.195.163
+IP: 151.193.204.161
+Domain: usairways.com
+Domain: lendingtree.com
+Domain: 8002hotels.com
+
+File: 830
+IP: 71.129.195.163
+IP: 212.20.229.219
+
+File: 831
+IP: 71.129.195.163
+IP: 65.127.244.60
+Domain: liberty.edu
+Domain: dxmarket.com
+Domain: activate.net
+Domain: adherents.com
+Domain: bvsd.k12.co.us
+Domain: interactivetools.com
+Domain: afa.net
+Domain: religioustolerance.org
+Domain: family.org
+Domain: aclj.org
+
+File: 832
+IP: 71.129.195.163
+IP: 12.21.70.13
+IP: 66.180.244.24
+IP: 12.17.71.139
+Domain: topica.com
+Domain: valueclick.com
+Domain: eScribe.com
+
+File: 833
+IP: 71.129.195.163
+IP: 64.227.72.45
+Domain: bullmarket.com
+Domain: stockscharts.com
+Domain: adtrader.com
+Domain: BullMarket.com
+Domain: tribalfusion.com
+Domain: b4utrade.com
+Domain: dorseywright.com
+
+File: 834
+IP: 216.61.43.217
+IP: 71.129.195.163
+IP: 151.164.30.28
+Domain: fraudconference.com
+Domain: insurancefraud.org
+Domain: i2inc.com
+Domain: cfenet.com
+Domain: CFEnet.com
+Domain: lexisnexis.com
+Domain: cftc.gov
+
+File: 835
+IP: 71.129.195.163
+IP: 38.117.128.176
+Domain: iceagedvd.com
+Domain: ed4.net
+
+File: 836
+IP: 71.129.195.163
+IP: 209.239.37.196
+Domain: subscribemepro.com
+Domain: sowingseedsoffaith.com
+
+File: 837
+IP: 71.129.195.163
+IP: 216.40.34.183
+Domain: timeinc.net
+Domain: californiamuscle.com
+Domain: pathfinder.com
+Domain: akamai.net
+Domain: atwola.com
+Domain: netscape.com
+Domain: ew.com
+
+File: 838
+IP: 216.237.145.154
+IP: 71.129.195.163
+IP: 127.0.0.1
+Domain: jokecenter.com
+
+File: 839
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: apachetoday.com
+Domain: linuxnewbie.org
+Domain: linuxcentral.com
+Domain: sparklist.com
+Domain: eltoday.com
+Domain: ibm.com
+Domain: linuxtoday.com
+Domain: bsdtoday.com
+Domain: linuxplanet.com
+Domain: alllinuxdevices.com
+Domain: phpbuilder.com
+Domain: earthweb.com
+
+File: 84
+IP: 71.129.195.163
+IP: 68.98.217.160
+Domain: vitalnews.com
+Domain: ExcelTips.com
+Domain: VitalNews.com
+
+File: 840
+IP: 66.218.66.83
+IP: 66.218.66.80
+IP: 66.218.66.94
+IP: 66.218.67.177
+IP: 71.129.195.163
+IP: 192.216.184.161
+IP: 66.218.66.216
+Domain: i.com.ua
+Domain: PhotoLinks.com
+Domain: photolinks.com
+Domain: yahoo.com
+
+File: 841
+IP: 66.61.124.91
+IP: 71.129.195.163
+IP: 209.61.158.9
+IP: 5.1.0.14
+Domain: toylandtoys.com
+Domain: clothesbydesign.com
+Domain: justtherightpicture.com
+Domain: redhotsweeps.com
+Domain: redhotboutiques.com
+Domain: spotlightcomputers.com
+
+File: 842
+IP: 71.129.195.163
+IP: 207.106.239.82
+Domain: flamingoworld.com
+Domain: aweber.com
+
+File: 843
+IP: 71.129.195.163
+IP: 66.119.14.217
+Domain: w3.org
+Domain: travelnow.com
+
+File: 844
+IP: 71.129.195.163
+IP: 66.180.246.27
+Domain: topica.com
+
+File: 845
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: penleyinc.com
+Domain: sparklist.com
+Domain: vcbuzz.com
+Domain: jupiterevents.com
+Domain: precache.com
+Domain: earthweb.com
+
+File: 846
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 206.252.132.57
+Domain: upoc.com
+Domain: dailycandy.com
+Domain: knockknock.biz
+
+File: 847
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 208.244.233.4
+Domain: jedioutcast.com
+Domain: rtxredrock.com
+Domain: gladius.com
+Domain: swkotor.com
+Domain: swclonewars.com
+Domain: emperorstomb.com
+Domain: lucasarts.com
+Domain: starwarsbountyhunter.com
+
+File: 848
+IP: 71.129.195.163
+IP: 127.0.0.1
+IP: 208.244.233.4
+Domain: starwarskids.com
+
+File: 849
+IP: 10.20.40.142
+IP: 71.129.195.163
+IP: 63.251.135.115
+Domain: rs6.net
+Domain: contemporarymoms.com
+Domain: amomsjoy.com
+Domain: themomteam.com
+Domain: mainstreetmom.com
+Domain: roving.com
+Domain: constantcontact.com
+
+File: 85
+IP: 71.129.195.163
+IP: 68.98.217.160
+Domain: vitalnews.com
+Domain: VitalNews.com
+Domain: 1shoppingcart.com
+
+File: 850
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: sparklist.com
+Domain: webopedia.com
+Domain: sharkyextreme.com
+Domain: internetnews.com
+Domain: virtualdr.com
+Domain: earthweb.com
+
+File: 851
+IP: 71.129.195.163
+IP: 216.93.113.77
+IP: 209.61.189.241
+
+File: 852
+IP: 71.129.195.163
+IP: 216.91.57.150
+Domain: PerfumeFind.com
+Domain: QuitSmokingIn7Days.com
+Domain: witwords.com
+Domain: quitsmoking.com
+
+File: 853
+IP: 71.129.195.163
+IP: 207.206.137.144
+IP: 209.123.46.105
+IP: 209.123.46.103
+IP: 209.145.128.5
+Domain: Puzz.com
+Domain: afreeb.com
+Domain: AfreeB.com
+Domain: biglist.com
+Domain: puzz.com
+
+File: 854
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: wsrn.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 855
+IP: 71.129.195.163
+IP: 24.91.200.37
+IP: 63.240.215.16
+Domain: herrickses.org
+Domain: discoveryschool.com
+
+File: 856
+IP: 71.129.195.163
+IP: 209.233.130.83
+IP: 10.250.50.45
+Domain: clubmac.com
+Domain: image1.cc
+
+File: 857
+IP: 71.129.195.163
+IP: 209.233.130.83
+IP: 10.250.50.45
+Domain: clubmac.com
+
+File: 858
+IP: 71.129.195.163
+IP: 192.168.1.10
+Domain: dominopower.com
+Domain: gfi.com
+Domain: chapura.com
+Domain: outlookpower.com
+Domain: gssnet.com
+Domain: nemx.com
+Domain: palmpower.com
+Domain: palmpowerenterprise.com
+Domain: ZATZ.com
+
+File: 859
+IP: 71.129.195.163
+IP: 216.91.57.29
+Domain: StellaAwards.com
+Domain: thisistrue.com
+Domain: lyris.com
+Domain: HeroicStories.com
+Domain: 1shoppingcart.com
+
+File: 86
+IP: 71.129.195.163
+IP: 140.239.165.182
+Domain: psppower.com
+Domain: muskalipman.com
+
+File: 860
+IP: 71.129.195.163
+IP: 216.116.119.78
+Domain: sd68.k12.il.us
+Domain: eduhoundschoolsontheweb.com
+Domain: kentuckytlc.com
+Domain: thejournal.com
+Domain: mlkday.org
+Domain: fetc.org
+Domain: sitins.com
+Domain: awesomeclipartforkids.com
+Domain: eduhound.com
+Domain: discovery.com
+Domain: deankids.net
+Domain: nps.gov
+Domain: cbv.ns.ca
+Domain: eduhoundclassroomsontheweb.com
+Domain: usdoj.gov
+Domain: theconferencecalendar.com
+Domain: state.oh.us
+
+File: 861
+IP: 71.129.195.163
+IP: 64.211.230.42
+Domain: keen.com
+Domain: Keen.com
+
+File: 862
+IP: 71.129.195.163
+IP: 216.91.57.155
+Domain: theoldschool.org
+Domain: financialaidupdate.com
+Domain: absolutelyscholarships.com
+Domain: estudentloan.com
+
+File: 863
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: mediaplex.com
+Domain: serverwatch.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 864
+IP: 71.129.195.163
+Domain: lygo.com
+Domain: lycos.com
+Domain: ediets.com
+
+File: 865
+IP: 71.129.195.163
+IP: 207.66.153.18
+Domain: pdamd.com
+
+File: 866
+IP: 209.6.136.219
+IP: 71.129.195.163
+IP: 63.240.215.16
+IP: 5.1.1.6
+Domain: discovery.com
+
+File: 867
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: InterSystems.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: databasejournal.com
+Domain: earthweb.com
+
+File: 868
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: jupiterdirect.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 869
+IP: 71.129.195.163
+IP: 207.206.137.144
+IP: 209.123.46.105
+IP: 209.123.46.103
+IP: 209.145.128.5
+Domain: Puzz.com
+Domain: afreeb.com
+Domain: AfreeB.com
+Domain: biglist.com
+Domain: puzz.com
+
+File: 87
+IP: 71.129.195.163
+IP: 140.239.165.182
+Domain: yahoo.com
+Domain: psppower.com
+Domain: muskalipman.com
+
+File: 870
+IP: 71.129.195.163
+IP: 10.21.9.140
+IP: 216.73.90.154
+Domain: primedia.com
+Domain: seventeen.com
+
+File: 871
+IP: 71.129.195.163
+IP: 207.25.80.40
+Domain: cnn.net
+Domain: cnnsi.com
+Domain: aol.com
+Domain: cnn.com
+Domain: atwola.com
+Domain: preferredhotels.com
+Domain: golfonline.com
+Domain: qksrv.net
+
+File: 872
+IP: 71.129.195.163
+IP: 10.21.6.140
+IP: 216.73.90.36
+Domain: playppe.com
+Domain: caesars.com
+
+File: 873
+IP: 71.129.195.163
+IP: 216.33.122.105
+Domain: frenchgardening.com
+Domain: tv5.org
+Domain: autoeurope.com
+Domain: pegaz.com
+Domain: myfrenchstore.com
+Domain: atyourserviceparis.com
+Domain: bparis.com
+Domain: netcapricorn.com
+Domain: francemagazine.org
+Domain: bonjourparis.com
+Domain: zchocolat.com
+
+File: 874
+IP: 71.129.195.163
+IP: 216.15.189.37
+Domain: chtah.co
+Domain: chtah.com
+Domain: timeinc.net
+
+File: 875
+IP: 71.129.195.163
+IP: 216.254.145.12
+IP: 127.0.0.1
+Domain: subscriberdirect.com
+Domain: self.com
+Domain: cancer.gov
+Domain: dcswx.com
+
+File: 876
+IP: 129.93.37.111
+IP: 71.129.195.163
+IP: 216.136.173.86
+IP: 129.93.1.169
+IP: 127.0.0.1
+IP: 129.93.1.83
+Domain: gsu.edu
+
+File: 877
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: swynk.com
+Domain: sqlcourse.com
+Domain: sparklist.com
+Domain: dbasupport.com
+Domain: internet.com
+Domain: databasejournal.com
+Domain: serverwatch.com
+Domain: sqlcourse2.com
+Domain: earthweb.com
+
+File: 878
+IP: 209.251.208.6
+IP: 71.129.195.163
+IP: 64.236.245.141
+IP: 209.251.208.18
+IP: 10.186.6.69
+Domain: teenpeople.com
+
+File: 879
+IP: 71.129.195.163
+IP: 216.91.57.170
+Domain: grandcypress.com
+Domain: golfdigest.com
+
+File: 88
+IP: 71.129.195.163
+IP: 207.82.250.44
+Domain: msn.com
+Domain: rsac.org
+Domain: windowsmedia.com
+Domain: msads.net
+
+File: 880
+IP: 71.129.195.163
+IP: 216.234.106.37
+Domain: icruise.com
+Domain: cruisemates.com
+
+File: 881
+IP: 71.129.195.163
+IP: 128.174.5.113
+Domain: msn.com
+Domain: weatherdimensions.com
+Domain: 5280tech.com
+Domain: davisnet.com
+
+File: 882
+IP: 71.129.195.163
+IP: 140.239.165.182
+Domain: fototime.com
+Domain: wugnet.com
+
+File: 883
+IP: 71.129.195.163
+IP: 140.239.165.182
+Domain: real.com
+Domain: networkadvertising.org
+Domain: webroot.com
+Domain: thesimsonline.com
+Domain: belkin.com
+Domain: wugnet.com
+Domain: compuserve.com
+Domain: colorpilot.com
+Domain: skipdoctor.com
+Domain: alltheweb.com
+
+File: 884
+IP: 71.129.195.163
+IP: 140.239.165.182
+Domain: cesweb.org
+Domain: wcai.com
+Domain: internetnews.com
+Domain: gsbc.com
+Domain: upenn.edu
+Domain: bcentral.com
+Domain: comnetexpo.com
+Domain: wugnet.com
+Domain: idc.com
+Domain: pewinternet.org
+Domain: com.com
+Domain: bizjournals.com
+Domain: serverwatch.com
+Domain: cnn.com
+Domain: yahoo.com
+Domain: nytimes.com
+Domain: instat.com
+Domain: nbr.co.nz
+Domain: comscore.com
+Domain: prnewswire.com
+Domain: hbs.edu
+Domain: smartmoney.com
+
+File: 885
+IP: 71.129.195.163
+IP: 140.239.165.182
+Domain: winzip.com
+Domain: wugnetdownloads.com
+Domain: wugnet.com
+Domain: compuserve.com
+Domain: eSellerate.net
+
+File: 886
+IP: 71.129.195.163
+IP: 164.50.248.207
+Domain: tempe.gov
+
+File: 887
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: pwcglobal.com
+Domain: earthweb.com
+Domain: doubleclick.com
+Domain: sparklist.com
+Domain: iab.net
+Domain: jupiterresearch.com
+Domain: internetnews.com
+Domain: jupiterevents.com
+Domain: cyberatlas.com
+Domain: globalinsight.com
+
+File: 888
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: vbconnections.com
+Domain: aspwire.com
+Domain: sparklist.com
+Domain: vbwire.com
+Domain: aspcode.com
+Domain: vbchat.com
+Domain: pocketpcwire.com
+Domain: sqlwire.com
+Domain: emailcomponent.com
+Domain: earthweb.com
+
+File: 889
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: atnewyork.com
+Domain: sparklist.com
+Domain: clickz.com
+Domain: internetnews.com
+Domain: searchenginestrategies.com
+Domain: searchenginewatch.com
+Domain: earthweb.com
+
+File: 89
+IP: 71.129.195.163
+IP: 216.12.219.209
+Domain: mcssl.com
+Domain: NearSights.com
+Domain: wordsmith.org
+
+File: 890
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: microsoft.com
+Domain: winplanet.com
+Domain: internet.com
+Domain: sparklist.com
+Domain: earthweb.com
+
+File: 891
+IP: 71.129.195.163
+IP: 216.91.57.130
+Domain: internet.com
+Domain: etail2003.com
+Domain: sparklist.com
+Domain: clickz.com
+Domain: searchenginestrategies.com
+Domain: earthweb.com
+
+File: 892
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: beammyresume.com
+Domain: clicks2you.com
+Domain: myaffiliateprogram.com
+Domain: sparklist.com
+Domain: referit.com
+Domain: webreference.com
+Domain: skyscraperads.com
+Domain: earthweb.com
+
+File: 893
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: msnbc.com
+Domain: freepint.com
+Domain: clickz.com
+Domain: internetnews.com
+Domain: infotoday.com
+Domain: forbes.com
+Domain: earthweb.com
+Domain: searchenginewatch.com
+Domain: adweek.com
+Domain: washingtonpost.com
+Domain: stuff.co.nz
+Domain: wired.com
+Domain: pandia.com
+Domain: sparklist.com
+Domain: com.com
+Domain: supportforums.org
+Domain: webposition.com
+Domain: jupiterevents.com
+Domain: att.com
+Domain: searchengineblog.com
+Domain: usatoday.com
+Domain: nytimes.com
+Domain: guardian.co.uk
+Domain: destinationcrm.com
+Domain: searchenginestrategies.com
+Domain: marketingterms.com
+Domain: searchengineguide.com
+
+File: 894
+IP: 71.129.195.163
+IP: 216.91.57.133
+Domain: jupiterevents.com
+Domain: internet.com
+Domain: musicmatch.com
+Domain: hitechgadgets.net
+Domain: sparklist.com
+Domain: newsguy.com
+Domain: jumbo.com
+Domain: SparkLIST.com
+Domain: forteinc.com
+Domain: microsoft.com
+Domain: opera.com
+Domain: houseofstroud.com
+Domain: getright.com
+Domain: dealtime.com
+Domain: earthweb.com
+
+File: 895
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: internet.com
+Domain: atnewyork.com
+Domain: sparklist.com
+Domain: mlx.com
+Domain: internetnews.com
+Domain: jupiterevents.com
+Domain: serverwatch.com
+Domain: earthweb.com
+
+File: 896
+IP: 71.129.195.163
+IP: 216.15.189.37
+Domain: chtah.co
+Domain: compusa.com
+Domain: chtah.com
+
+File: 897
+IP: 159.142.1.200
+IP: 71.129.195.163
+IP: 159.142.144.58
+IP: 198.78.78.141
+Domain: arnet.gov
+
+File: 898
+IP: 71.129.195.163
+IP: 216.91.57.135
+Domain: msnbc.com
+Domain: internet.com
+Domain: usatoday.com
+Domain: itworld.com
+Domain: com.com
+Domain: fcw.com
+Domain: sparklist.com
+Domain: wired.com
+Domain: jupiterevents.com
+Domain: washingtonpost.com
+Domain: theinquirer.net
+Domain: latimes.com
+Domain: infoworld.com
+Domain: reuters.com
+Domain: businessweek.com
+Domain: ecommercetimes.com
+Domain: internetnews.com
+Domain: instantmessagingplanet.com
+Domain: vnunet.com
+Domain: idg.net
+Domain: earthweb.com
+
+File: 899
+IP: 71.129.195.163
+IP: 216.91.57.136
+Domain: internet.com
+Domain: atnewyork.com
+Domain: sparklist.com
+Domain: developer.com
+Domain: internetnews.com
+Domain: jupiterevents.com
+Domain: databasejournal.com
+Domain: searchenginewatch.com
+Domain: serverwatch.com
+Domain: webreference.com
+Domain: esecurityplanet.com
+Domain: earthweb.com
+
+File: 9
+IP: 71.129.195.163
+IP: 207.82.250.45
+Domain: msn.com
+Domain: msads.net
+
+File: 90
+IP: 71.129.195.163
+IP: 5.647.5.0
+IP: 64.208.135.25
+Domain: tm0.com
+
+File: 900
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.163
+Domain: myabout.com
+Domain: about.com
+
+File: 901
+IP: 71.129.195.163
+IP: 216.91.57.134
+Domain: internet.com
+Domain: usatoday.com
+Domain: internetweek.com
+Domain: sun.com
+Domain: developer.com
+Domain: internetnews.com
+Domain: jupiterevents.com
+Domain: InterSystems.com
+Domain: jars.com
+Domain: serverwatch.com
+Domain: thelist.com
+Domain: bayarea.com
+Domain: pcmag.com
+
+File: 902
+IP: 71.129.195.163
+IP: 216.109.67.212
+Domain: customoffers.com
+
+File: 903
+IP: 71.129.195.163
+IP: 4.18.48.114
+Domain: internetwire.com
+Domain: advertising.com
+
+File: 904
+IP: 71.129.195.163
+IP: 216.39.115.83
+Domain: orbitcycle.com
+Domain: mb00.net
+Domain: investorguide.com
+Domain: tradingpit.com
+
+File: 905
+IP: 71.129.195.163
+IP: 10.3.3.189
+IP: 129.250.156.241
+IP: 10.3.3.63
+Domain: astrology.com
+Domain: ivillage.com
+Domain: akamai.net
+Domain: parentsoup.com
+Domain: doubleclick.net
+
+File: 906
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+IP: 10.3.3.248
+Domain: doubleclick.net
+Domain: pregnancycalendar.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+Domain: parentsplace.com
+
+File: 907
+IP: 10.21.9.200
+IP: 71.129.195.163
+IP: 216.73.90.168
+Domain: myabout.com
+Domain: about.com
+
+File: 908
+IP: 71.129.195.163
+IP: 164.109.48.44
+IP: 127.0.0.1
+IP: 209.119.0.163
+Domain: state.gov
+Domain: cdc.gov
+
+File: 909
+IP: 71.129.195.163
+IP: 10.3.3.62
+IP: 129.250.156.242
+IP: 10.3.3.248
+Domain: parentsplace.com
+Domain: ivillage.com
+Domain: ivillagehealth.com
+
+File: 91
+IP: 216.39.115.67
+IP: 71.129.195.163
+Domain: mb00.net
+Domain: greatvoice.com
+
+File: 910
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+
+File: 911
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+Domain: chartshop.com
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 912
+IP: 71.129.195.163
+IP: 129.250.156.241
+IP: 10.3.3.61
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 913
+IP: 71.129.195.163
+IP: 10.3.3.189
+IP: 10.3.3.60
+IP: 129.250.156.241
+Domain: ivillage.com
+Domain: substance.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 914
+IP: 71.129.195.163
+IP: 10.3.3.189
+IP: 129.250.156.241
+IP: 10.3.3.61
+Domain: healthywomen.org
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: ivillagehealth.com
+Domain: akamai.net
+
+File: 915
+IP: 71.129.195.163
+IP: 10.3.3.62
+IP: 129.250.156.242
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 916
+IP: 71.129.195.163
+IP: 10.3.3.60
+IP: 10.3.3.248
+IP: 129.250.156.242
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 917
+IP: 71.129.195.163
+IP: 10.3.3.248
+IP: 129.250.156.242
+IP: 10.3.3.63
+Domain: masteringrelationships.com
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 918
+IP: 192.168.1.100
+IP: 71.129.195.163
+IP: 192.168.1.200
+IP: 216.219.244.204
+Domain: buycoffee.com
+Domain: cciml.com
+
+File: 919
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+IP: 10.3.3.248
+Domain: doubleclick.net
+Domain: substance.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 92
+IP: 207.171.188.101
+IP: 71.129.195.163
+IP: 10.16.42.229
+Domain: amazon.com
+
+File: 920
+IP: 71.129.195.163
+IP: 10.3.3.60
+IP: 129.250.156.242
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 921
+IP: 71.129.195.163
+IP: 10.3.3.248
+IP: 129.250.156.242
+IP: 10.3.3.63
+Domain: divinems.com
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: startsampling.com
+Domain: akamai.net
+
+File: 922
+IP: 71.129.195.163
+IP: 10.3.3.62
+IP: 129.250.156.242
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 923
+IP: 71.129.195.163
+IP: 10.3.3.189
+IP: 129.250.156.241
+IP: 10.3.3.62
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 924
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: doubleclick.net
+Domain: about.com
+
+File: 925
+IP: 71.129.195.163
+IP: 10.3.3.189
+IP: 129.250.156.241
+IP: 10.3.3.62
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 926
+IP: 71.129.195.163
+IP: 10.3.3.62
+IP: 129.250.156.242
+IP: 10.3.3.248
+Domain: parentsplace.com
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 927
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+IP: 10.3.3.248
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 928
+IP: 71.129.195.163
+IP: 129.250.156.241
+IP: 10.3.3.62
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 929
+IP: 71.129.195.163
+IP: 151.121.68.20
+Domain: usda.gov
+
+File: 93
+IP: 71.129.195.163
+IP: 207.241.145.5
+Domain: about.com
+
+File: 930
+IP: 71.129.195.163
+IP: 129.250.156.241
+IP: 10.3.3.63
+Domain: cbs.com
+Domain: substance.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+Domain: women.com
+
+File: 931
+IP: 71.129.195.163
+IP: 10.3.3.189
+IP: 129.250.156.241
+IP: 10.3.3.63
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 932
+IP: 71.129.195.163
+IP: 129.250.156.241
+IP: 10.3.3.61
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 933
+IP: 71.129.195.163
+IP: 10.3.3.60
+IP: 129.250.156.241
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+
+File: 934
+IP: 71.129.195.163
+IP: 10.21.9.10
+IP: 216.73.90.134
+Domain: myabout.com
+Domain: about.com
+
+File: 935
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 936
+IP: 71.129.195.163
+IP: 10.3.3.248
+IP: 129.250.156.242
+IP: 10.3.3.63
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 937
+IP: 71.129.195.163
+IP: 10.3.3.248
+IP: 129.250.156.242
+IP: 10.3.3.63
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 938
+IP: 71.129.195.163
+IP: 10.3.3.62
+IP: 129.250.156.242
+IP: 10.3.3.248
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 939
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: doubleclick.net
+
+File: 94
+IP: 207.171.180.101
+IP: 71.129.195.163
+IP: 10.16.42.228
+Domain: amazon.com
+
+File: 940
+IP: 165.112.130.6
+IP: 71.129.195.163
+IP: 158.72.7.120
+IP: 165.112.130.34
+IP: 165.112.130.32
+IP: 127.0.0.1
+Domain: dhhs.gov
+
+File: 941
+IP: 71.129.195.163
+IP: 10.3.3.60
+IP: 129.250.156.241
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 942
+IP: 71.129.195.163
+IP: 10.3.3.248
+IP: 129.250.156.242
+IP: 10.3.3.63
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 943
+IP: 71.129.195.163
+IP: 129.250.156.241
+IP: 10.3.3.63
+Domain: healthywomen.org
+Domain: doubleclick.net
+Domain: ivillage.com
+Domain: astrology.com
+Domain: ivillagehealth.com
+Domain: akamai.net
+
+File: 944
+IP: 10.21.9.70
+IP: 71.129.195.163
+IP: 216.73.90.141
+Domain: myabout.com
+Domain: about.com
+
+File: 945
+IP: 71.129.195.163
+IP: 10.3.3.61
+IP: 129.250.156.242
+Domain: doubleclick.net
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: astrology.com
+Domain: akamai.net
+
+File: 946
+IP: 71.129.195.163
+IP: 10.3.3.60
+IP: 10.3.3.248
+IP: 129.250.156.242
+Domain: ivillagehealth.com
+Domain: ivillage.com
+Domain: akamai.net
+Domain: astrology.com
+Domain: ivillagesolutions.com
+
+File: 947
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: attendsource.com
+
+File: 948
+IP: 71.129.195.163
+IP: 207.250.191.51
+
+File: 949
+IP: 71.129.195.163
+IP: 207.250.191.51
+
+File: 95
+IP: 71.129.195.163
+IP: 10.16.42.228
+IP: 207.171.188.106
+Domain: amazon.com
+
+File: 950
+IP: 158.72.7.109
+IP: 71.129.195.163
+IP: 158.72.7.114
+IP: 198.102.218.40
+
+File: 951
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: ezinearticles.com
+
+File: 952
+IP: 71.129.195.163
+IP: 207.250.191.51
+
+File: 953
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: ezinearticles.com
+Domain: bestezines.com
+
+File: 954
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: EzineArticles.com
+Domain: websitemarketingplan.com
+Domain: ahbbo.com
+Domain: BusinessTrainingService.com
+Domain: ezinearticles.com
+
+File: 955
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: fitplans.com
+
+File: 956
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: skazat.com
+Domain: CoachMaria.com
+Domain: CreateEzine.com
+
+File: 957
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: lyris.com
+
+File: 958
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: networkassociates.com
+
+File: 959
+IP: 71.129.195.163
+IP: 128.105.14.41
+IP: 144.92.170.200
+Domain: aclu.org
+Domain: oneilsoftware.com
+Domain: knoxnews.com
+Domain: thisnation.com
+Domain: weblogexpert.com
+Domain: wisc.edu
+Domain: nih.gov
+Domain: museumofhoaxes.com
+Domain: ncsu.edu
+Domain: freedomforum.org
+Domain: washingtonpost.com
+Domain: mekong.net
+Domain: acenet.edu
+Domain: pbs.org
+Domain: nap.edu
+Domain: loc.gov
+Domain: linguistlist.org
+Domain: w3.org
+Domain: lungaction.org
+Domain: appcpenn.org
+Domain: lse.ac.uk
+Domain: harvard.edu
+Domain: britishpathe.com
+
+File: 96
+IP: 71.129.195.163
+IP: 10.16.42.233
+IP: 207.171.188.108
+Domain: amazon.com
+
+File: 960
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: mpr.org
+Domain: byjamesraia.com
+Domain: ParishWebmaster.com
+Domain: BestEzines.com
+
+File: 961
+IP: 71.129.195.163
+IP: 207.250.191.51
+Domain: heloise.com
+
+File: 962
+IP: 71.129.195.163
+IP: 10.1.10.27
+IP: 216.52.18.252
+Domain: rca.com
+Domain: custhelp.com
+Domain: listen.com
+
+File: 963
+IP: 71.129.195.163
+IP: 10.1.10.27
+IP: 216.52.18.252
+Domain: rca.com
+Domain: custhelp.com
+Domain: listen.com
+
+File: 964
+IP: 71.129.195.163
+IP: 130.94.96.247
+Domain: photomeister.com
+Domain: infopackets.com
+Domain: 4team.biz
+Domain: dice.com
+Domain: brainexplorer.org
+Domain: lockergnome.com
+Domain: mywebattack.com
+Domain: gnometomes.com
+Domain: digitaldaze.com
+Domain: goodmj.com
+Domain: techsmith.com
+Domain: easywebeditor.com
+Domain: gnomedownloads.com
+Domain: pentazip.com
+Domain: hyperpublish.com
+Domain: chatables.net
+Domain: business2.com
+Domain: fontlab.com
+Domain: Firststopwebsearch.com
+Domain: drtag.de
+Domain: xteq.com
+Domain: gfx2swf.com
+Domain: crosspaths.net
+Domain: programmingart.com
+Domain: liutilities.com
+Domain: cjb.net
+Domain: apple.com
+Domain: colorpilot.com
+Domain: dnscentral.com
+Domain: windowsmedia.com
+Domain: pirillo.com
+Domain: booklocker.com
+Domain: acmechophouse.com
+Domain: lyris.com
+Domain: collectorz.com
+Domain: microsoft.com
+Domain: pricegrabber.com
+Domain: usahero.com
+Domain: netknowledgebase.com
+Domain: qksrv.net
+
+File: 965
+IP: 71.129.195.163
+IP: 130.94.96.247
+Domain: acrovista.com
+Domain: dice.com
+Domain: lockergnome.com
+Domain: gnometomes.com
+Domain: digitaldaze.com
+Domain: labf.com
+Domain: euroconference.org
+Domain: softshape.com
+Domain: eji.com
+Domain: digitalriver.com
+Domain: xteq.com
+Domain: ashampoo.com
+Domain: crosspaths.net
+Domain: superiorsearch.com
+Domain: gnomedownloads.com
+Domain: ransen.com
+Domain: browserbob.com
+Domain: dnscentral.com
+Domain: go1984.de
+Domain: booklocker.com
+Domain: digestsoftware.com
+Domain: radmin.com
+Domain: lyris.com
+Domain: pricegrabber.com
+Domain: turbodemo.com
+Domain: powergrep.com
+Domain: shareit.com
+Domain: elfring.com
+
+File: 966
+IP: 71.129.195.163
+IP: 207.241.145.4
+Domain: about.com
+
+File: 967
+IP: 71.129.195.163
+IP: 198.31.212.8
+Domain: cafepress.com
+Domain: budgetmap.com
+Domain: christianfamilytreasures.com
+Domain: guirt.com
+Domain: affiliatefuel.com
+Domain: oldfashionedliving.com
+Domain: mainstreetmom.com
+Domain: Sites4Moms.com
+
+File: 968
+IP: 71.129.195.163
+IP: 198.31.212.8
+Domain: tripod.com
+Domain: guirt.com
+Domain: MainStreetMom.com
+Domain: affiliatefuel.com
+Domain: amazon.com
+Domain: practicalkitchen.com
+Domain: budgetmap.com
+Domain: thequeenofpizzazz.com
+Domain: oldfashionedliving.com
+Domain: mainstreetmom.com
+Domain: thefamilycorner.com
+Domain: clickbank.net
+
+File: 969
+IP: 71.129.195.163
+IP: 63.214.251.5
+IP: 63.214.251.3
+Domain: roibot.com
+Domain: EzineTactics.com
+Domain: strategybook.com
+Domain: marketingtips.com
+Domain: hypertracker.com
+Domain: paulettesshop.com
+Domain: amazon.com
+Domain: bizsuccess.com
+Domain: BizSuccess.com
+
+File: 97
+IP: 207.171.188.101
+IP: 71.129.195.163
+IP: 10.16.42.228
+Domain: amazon.com
+
+File: 970
+IP: 71.129.195.163
+IP: 207.133.188.6
+Domain: af.mil
+Domain: feedroom.com
+
+File: 971
+IP: 71.129.195.163
+IP: 64.208.228.205
+Domain: investmentbooks.com
+Domain: pinsoncommunications.com
+Domain: marketmavens.com
+Domain: publicationsetc.com
+
+File: 972
+IP: 206.146.143.87
+IP: 71.129.195.163
+IP: 206.146.143.85
+
+File: 973
+IP: 206.146.143.87
+IP: 71.129.195.163
+IP: 206.146.143.85
+Domain: marketwatch.com
+
+File: 974
+IP: 71.129.195.163
+IP: 206.146.143.85
+IP: 206.146.143.86
+
+File: 975
+IP: 71.129.195.163
+IP: 206.146.143.85
+IP: 206.146.143.86
+Domain: marketwatch.com
+
+File: 976
+IP: 71.129.195.163
+IP: 206.146.143.214
+IP: 206.146.143.218
+Domain: marketwatch.com
+
+File: 977
+IP: 206.146.143.87
+IP: 71.129.195.163
+IP: 206.146.143.85
+Domain: marketwatch.com
+
+File: 978
+IP: 206.146.143.87
+IP: 71.129.195.163
+IP: 206.146.143.85
+Domain: marketwatch.com
+
+File: 979
+IP: 71.129.195.163
+IP: 216.91.57.151
+Domain: mcpetesez.com
+
+File: 98
+IP: 207.171.188.109
+IP: 71.129.195.163
+IP: 10.16.42.233
+Domain: amazon.com
+
+File: 980
+IP: 71.129.195.163
+IP: 207.133.188.6
+Domain: af.mil
+Domain: feedroom.com
+
+File: 981
+IP: 216.73.90.75
+IP: 71.129.195.163
+IP: 10.21.7.140
+Domain: mgm.com
+
+File: 982
+IP: 71.129.195.163
+IP: 10.50.10.202
+IP: 63.112.170.2
+Domain: monsterlearning.com
+Domain: monster.com
+Domain: amazon.com
+
+File: 983
+IP: 71.129.195.163
+IP: 63.211.217.188
+IP: 192.168.0.31
+Domain: whatcounts.com
+Domain: mountainzone.com
+Domain: mediaplex.com
+Domain: bluestreak.com
+
+File: 984
+IP: 71.129.195.163
+IP: 166.134.125.209
+Domain: shagmail.com
+Domain: angelfire.com
+Domain: pinn.net
+Domain: kinderart.com
+Domain: shaw.ca
+Domain: pulsetv.com
+Domain: discovery.com
+Domain: about.com
+Domain: geocities.com
+Domain: fastq.com
+Domain: stepbystepcc.com
+Domain: sandi.net
+Domain: crayola.com
+Domain: sendoutmail.com
+Domain: mrsalphabet.com
+
+File: 985
+IP: 207.46.169.42
+IP: 71.129.195.163
+IP: 3.4.4.103
+Domain: msnbc.com
+
+File: 986
+IP: 207.46.169.42
+IP: 71.129.195.163
+IP: 3.4.4.103
+Domain: msnbc.com
+Domain: MSNBC.com
+
+File: 987
+IP: 10.21.9.70
+IP: 71.129.195.163
+IP: 216.73.90.142
+Domain: myabout.com
+Domain: about.com
+
+File: 988
+IP: 207.46.169.42
+IP: 71.129.195.163
+IP: 3.4.4.103
+Domain: msnbc.com
+
+File: 989
+IP: 207.46.169.42
+IP: 71.129.195.163
+IP: 3.4.12.54
+Domain: capwiz.com
+Domain: msnbc.com
+
+File: 99
+IP: 207.171.180.101
+IP: 71.129.195.163
+IP: 10.16.42.230
+Domain: amazon.com
+
+File: 990
+IP: 4.04.00.00
+IP: 71.129.195.163
+IP: 199.170.88.15
+IP: 66.76.2.40
+IP: 66.76.114.236
+Domain: ebgames.com
+
+File: 991
+IP: 216.52.14.116
+IP: 71.129.195.163
+IP: 192.168.6.200
+Domain: americandiabetesassn.org
+
+File: 992
+IP: 71.129.195.163
+IP: 192.77.84.74
+Domain: nasa.gov
+
+File: 993
+IP: 71.129.195.163
+IP: 144.171.1.19
+Domain: nap.edu
+Domain: iom.edu
+Domain: cpst.net.cn
+
+File: 994
+IP: 71.129.195.163
+IP: 10.21.6.140
+IP: 216.73.90.38
+Domain: gateway.com
+
+File: 995
+IP: 71.129.195.163
+IP: 10.21.8.70
+IP: 216.73.90.104
+Domain: omahasteaks.com
+Domain: akamai.net
+
+File: 996
+IP: 71.129.195.163
+IP: 66.180.244.23
+Domain: topica.com
+Domain: amazon.com
+
+File: 997
+IP: 149.48.46.26
+IP: 71.129.195.163
+IP: 149.48.25.127
+IP: 149.48.4.72
+Domain: pbs.org
+
+File: 998
+IP: 149.48.46.26
+IP: 71.129.195.163
+IP: 149.48.25.127
+IP: 149.48.4.72
+Domain: pbskids.org
+Domain: spanishpronto.com
+Domain: youthnoise.com
+Domain: pbs.org
+
+File: 999
+IP: 149.48.46.26
+IP: 71.129.195.163
+IP: 149.48.4.72
+IP: 149.48.192.175
+Domain: sbc.com
+Domain: admworld.com
+Domain: pbs.org
+Domain: cpb.org
